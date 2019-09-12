@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationPackage SchemaVersion="1.0" AppVersion="1.0.0" Author="A2KTechnologies" ProductCode="{BFE0FAE9-3F43-4E9F-990C-CF02EE4D5A06}" UpgradeCode="{976DD2D0-285B-4E07-89C1-37263CB8DD57}" Name="Kwikscaf" Description="Kwikscaf" AutodeskProduct="AutoCAD" ProductType="Application" FriendlyVersion="1.0.0" SupportedLocales="Enu" AppNameSpace="" OnlineDocumentation="" Icon="./Contents/Resources/1382629336_excel.png" HelpFile="">
+  <CompanyDetails Name="A2KTechnologies" Email="" Url="" Phone=" " />
+  <Components Description="2018 parts">
+    <RuntimeRequirements SupportPath="./Contents" OS="Win32|Win64" Platform="AutoCAD*|AutoCAD" SeriesMin="R22.0" SeriesMax="R22.1" ToolPalettePath="./Contents/Tool Palettes/" />
+    <ComponentEntry AppName="Kwikscaf" Version="1.7.1" ModuleName="./Contents/Windows/en/Kwikscaf2018.arx" AppDescription="KwikScaf" LoadOnAutoCADStartup="True" LoadOnCommandInvocation="True">
+      <Commands GroupName="KwikScaf">
+        <Command Local="Kwikscaf" Global="Kwikscaf" StartupCommand="false"/>
+      </Commands>
+    </ComponentEntry>
+  </Components>
+<Components Description="CUI">
+    <RuntimeRequirements SupportPath="./Contents/Resources/" OS="Win32|Win64" Platform="AutoCAD*" SeriesMin="R22.0" SeriesMax="R22.1" />
+    <ComponentEntry AppName="Kwikscaf Menu" Version="1.1.0" 
+ModuleName="./Contents/Resources/KwikScaf.cuix" 
+AppDescription="Kwikscaf CUI" />
+  </Components>
+
+<Components Description="Template">
+    <RuntimeRequirements SupportPath="./Contents/Templates/" OS="Win32|Win64" Platform="AutoCAD*" SeriesMin="R22.0" SeriesMax="R22.1" />
+    <ComponentEntry AppName="Template" Version="1.1.0" 
+ModuleName="./Contents/Templates/KwikScaf Titles.dwt" 
+AppDescription="Template" />
+  </Components>
+
+
+</ApplicationPackage>
