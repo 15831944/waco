@@ -1,0 +1,38 @@
+!User ID, Prem
+!Draftsman, 
+!M. E. #, 
+!Job Title, 
+!Job Desc, 
+!Client Name, 
+!DWG Filename, D:\AK@dev42\waco\02122017\M2\Sample 1.dwg
+!Kwikscaf version, Release 3.5.1
+!File created, 5/12/2017, 12:46
+!Filename, E:\AK@dev42\KwikScaf BOM Summary File.csv
+!
+!
+!Part Number, Quantity, Area(mm^2), Description, Hire*($), Sale*($), Weight(kg)
+!
+Stage/Level,<None>/1
+AREA,169.14m2
+DECK FACE AREA,30.24m2
+TOTAL FACE AREA,50.40m2
+TO TOP DECK AREA,50.40m2
+TO TOP GUARDRAIL AREA,50.40m2
+101106, 12, 0.0, STEEL SCAFFOLD TUBE 0.6M, 1.20, 117.12, 38.4
+101124, 6, 0.0, STEEL SCAFFOLD TUBE 2.4M, 3.00, 234.54, 75.6
+101500, 24, 0.0, 90 DEG. COUPLER 2X2, 5.76, 427.68, 36.0
+102622, 16, 0.0, BASE JACK - SCAFFOLD, 13.28, 688.16, 116.8
+103975, 16, 0.0, SOLEBOARD 0.5M, 6.72, 54.24, 80.0
+107020, 32, 0.0, STANDARD 2.0M, 32.00, 2427.20, 387.2
+107030, 32, 0.0, STANDARD 3.0M, 44.16, 3230.08, 566.4
+107124, 140, 0.0, LEDGER 2.4M, 96.60, 8465.80, 1582.0
+107212, 64, 0.0, TRANSOM 1.2M, 40.32, 3301.76, 614.4
+107321, 10, 0.0, BRACE 2.1M, 6.60, 506.10, 97.0
+107336, 9, 0.0, BRACE 3.6M, 9.00, 619.74, 144.0
+107400, 32, 0.0, TOE BOARD CLIP, 8.00, 569.28, 25.6
+107424, 224, 0.0, STEEL BOARD 2.4M, 259.84, 17001.60, 3808.0
+107602, 40, 0.0, 2 BOARD HOP-UP BRACKET, 30.40, 2146.00, 260.0
+107624, 28, 0.0, TIE BAR 2.4M, 9.52, 814.52, 184.8
+
+
+!* Prices shown are LIST PRICE ONLY and do not include GST nor Stamp Duty!
