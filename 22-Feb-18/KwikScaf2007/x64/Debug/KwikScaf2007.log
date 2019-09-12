@@ -1,0 +1,436 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (KwikScaf2013.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  StdAfx.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  VisualComponents.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  SummaryInfo.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  SummaryElement.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  StockListElement.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  StandardHeightPickerDialog.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  StageLevelVisible.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  StageLevelShowHideDlg.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  ShowComponentTypeDialog.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  SHKInterface.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\Stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\Stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  SetStagesDlg.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  ScaffoldArchive.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  RunPropDialog.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  Run.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  PrintStatus.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  PrinterJob.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  PreviewTemplate.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  PerRollDialog.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  ObjectPosition.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  msgboxdlg.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  MillsSystemBayEditor.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  Generating Code...
+  Compiling...
+  MdiAware.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\Stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\Stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+MdiAware.cpp(1875): warning C4010: single-line comment contains line-continuation character
+MdiAware.cpp(1876): warning C4010: single-line comment contains line-continuation character
+MdiAware.cpp(1953): warning C4010: single-line comment contains line-continuation character
+MdiAware.cpp(1954): warning C4010: single-line comment contains line-continuation character
+  MatrixElement.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  Matrix.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  ListPrintSetup.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  ListPrintPage2.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  ListPrintPage1.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  ListCtrlPrint.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  Line.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  LiftList.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  LiftDetailsDialog.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  Lift.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  LevelList.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  LapboardBay.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  KwikscafProgressDlg.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  KwikScafLicensing.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+KwikScafLicensing.cpp(53): warning C4129: 'P': unrecognized character escape sequence
+KwikScafLicensing.cpp(53): warning C4129: 'G': unrecognized character escape sequence
+KwikScafLicensing.cpp(53): warning C4129: 'C': unrecognized character escape sequence
+KwikScafLicensing.cpp(53): warning C4129: 'd': unrecognized character escape sequence
+  KwikscafDialog.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  KwikScafComponentEditor.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  KwikScafColours.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  KwikScafButton.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  KwikScaf2007.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  Generating Code...
+  Compiling...
+  Kwik3DPolygonMesh.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  KeyEncryption.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  JobDetailsDialog.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  JobDescriptionInfo.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  IniReader.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  HelpAboutDlg.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  GraphicTypes.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  FreeTieTube.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  FontCombo.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  EntityReactor.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  EntityDebugger.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  Entity.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  Encryption.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  EditStandardsDlg.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  doubleArray.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  DocData.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  CoolButton.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  controller.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  ComponentPartNumberSelectorDlg.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  componentList.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  Generating Code...
+  Compiling...
+  ComponentEditor.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  ComponentDetails.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  Component.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+Component.cpp(1786): warning C4010: single-line comment contains line-continuation character
+Component.cpp(1787): warning C4010: single-line comment contains line-continuation character
+  ChangeRLDlg.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  BOMSummaryDialog.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  BOMSelectionDialog.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  BOMExtra.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+BOMExtra.cpp(640): warning C4010: single-line comment contains line-continuation character
+  BayStageLevel.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  BayPropToolbarWnd.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  BayPropertiesToolbar.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  BayDetailsDialog.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  Bay.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+Bay.cpp(307): warning C4010: single-line comment contains line-continuation character
+Bay.cpp(308): warning C4010: single-line comment contains line-continuation character
+Bay.cpp(309): warning C4010: single-line comment contains line-continuation character
+Bay.cpp(473): warning C4010: single-line comment contains line-continuation character
+Bay.cpp(474): warning C4010: single-line comment contains line-continuation character
+Bay.cpp(475): warning C4010: single-line comment contains line-continuation character
+Bay.cpp(5618): warning C4010: single-line comment contains line-continuation character
+Bay.cpp(11237): warning C4010: single-line comment contains line-continuation character
+Bay.cpp(16688): warning C4010: single-line comment contains line-continuation character
+Bay.cpp(18377): warning C4010: single-line comment contains line-continuation character
+  AutoBuildTools.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  AutobuildToolbar.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  AutobuildPropertiesWnd.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  AutobuildPropertiesToolbar.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  AutobuildDialog.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  AssignStageDialog.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\stdafx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  acrxEntryPoint.cpp
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): warning C4005: '_USING_V110_SDK71_': macro redefinition
+  d:\ak@dev42\kwikscaf2018\kwikscaf2007\StdAfx.h(21): note: command-line arguments:  see previous definition of '_USING_V110_SDK71_'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): warning C4005: '_AFXDLL': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(13): note: command-line arguments:  see previous definition of '_AFXDLL'
+  Generating Code...
+d:\ak@dev42\kwikscaf2018\kwikscaf2007\acrxentrypoint.cpp(218): warning C4700: uninitialized local variable 'hwnd' used
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(D:\AK@dev42\KwikScaf2018\x64\Debug\KwikScaf2018.arx) does not match the Linker's OutputFile property value (C:\ProgramData\Autodesk\ApplicationPlugins\KwikScaf.bundle\Contents\Windows\en\KwikScaf2018.arx). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  LINK : program database D:\AK@dev42\KwikScaf2018\x64\Debug\KwikScaf2018.pdb missing; performing full link
+     Creating library D:\AK@dev42\KwikScaf2018\x64\Debug\KwikScaf2018.lib and object D:\AK@dev42\KwikScaf2018\x64\Debug\KwikScaf2018.exp
+rxapi.lib(libinit.obj) : warning LNK4099: PDB 'rxapi.pdb' was not found with 'rxapi.lib(libinit.obj)' or at 'D:\AK@dev42\KwikScaf2018\x64\Debug\rxapi.pdb'; linking object as if no debug info
+  KwikScaf2007.vcxproj -> D:\AK@dev42\KwikScaf2018\x64\Debug\KwikScaf2018.arx
+  KwikScaf2007.vcxproj -> D:\AK@dev42\KwikScaf2018\x64\Debug\KwikScaf2018.pdb (Full PDB)
