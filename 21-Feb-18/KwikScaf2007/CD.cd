@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CKwikScaf2007App" Collapsed="true">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YALeVTLOMuSC1kFQxChZABUcBZAMhIQQRRGPIiQGhRI=</HashCode>
+      <FileName>acrxEntryPoint.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutobuildPropertiesToolbar" Collapsed="true">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACAAAAQAAAAAAAQgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AutobuildPropertiesToolbar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutobuildPropertiesWnd" Collapsed="true">
+    <Position X="22.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAEAE=</HashCode>
+      <FileName>AutobuildPropertiesWnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutobuildToolbar" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>AutobuildToolbar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoBuildTools" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJHDoJIZe1uCgejQDqLQ0xEZcakMoL5hBmghwZrgYpw=</HashCode>
+      <FileName>AutoBuildTools.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bay" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>v/v+cJ/7f+7+5Db/5vfYr/+/9f/8/Yv/x/fk7v3f7/8=</HashCode>
+      <FileName>Bay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BayList" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAEAAAACAAAAAAAAAIAgAABEAAAAAAhACCAABE=</HashCode>
+      <FileName>Bay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BayPropertiesToolbar" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAQIAAAAAAAQAAAAAAAAgAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>BayPropertiesToolbar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BayPropToolbarWnd" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>BayPropToolbarWnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BayStageLevel" Collapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgCgECkAAIEAAAQAASCIABACAAAAAAAAAIAACAAAA=</HashCode>
+      <FileName>BayStageLevel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BayStageLevelArray" Collapsed="true">
+    <Position X="19" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAIEAAASACACAAAESAAAQAAAACABAEAIEA=</HashCode>
+      <FileName>BayStageLevel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOMExtraElement" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAEAA8AAAAgAAAIBAAAAAAAAAEgAQAxoAAAAQAA=</HashCode>
+      <FileName>BOMExtra.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOMExtraArray" Collapsed="true">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAIAAgAAAAAAA=</HashCode>
+      <FileName>BOMExtra.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Component" Collapsed="true">
+    <Position X="17.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBRuriWuktzZgQ5L0aLfnoMJn7wAV21VIYZolszJFJ4=</HashCode>
+      <FileName>Component.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComponentDetailsElement" Collapsed="true">
+    <Position X="20.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAkABAAIAAAAAAAAAACAAIACAAAAAIAABBAAAAAAA=</HashCode>
+      <FileName>ComponentDetails.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComponentDetailsArray" Collapsed="true">
+    <Position X="19" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgACAADAAAAIQQAMAAkAEBASQAAAQIAgEAADgCAA=</HashCode>
+      <FileName>ComponentDetails.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComponentListElement" Collapsed="true">
+    <Position X="22.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAQAAAAAAAAAAEAAAAAAQAAAAEAAA=</HashCode>
+      <FileName>componentList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComponentList" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAIAAagAAAABAAIEAAAAgkACABgAAAAEAA=</HashCode>
+      <FileName>componentList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller" Collapsed="true">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>70//u/ufv///3f88//v//9/9ff/1v38+//e7//u+9+Y=</HashCode>
+      <FileName>controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCoolButton" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABgAAAAEAAAAAAMAAAAJAgDAAABEAAAAAAAAQASA=</HashCode>
+      <FileName>CoolButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDocData" Collapsed="true">
+    <Position X="15.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DocData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="doubleArray" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICDBKAAAAAEAAAAAEAAQAAAAACQAAAEAAgBAAAAAA=</HashCode>
+      <FileName>doubleArray.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="intArray" Collapsed="true">
+    <Position X="19" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICDJKAAAAAEAAAAAAAAQAAAAACQAAAABAgAAAAAAA=</HashCode>
+      <FileName>doubleArray.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEncryption" Collapsed="true">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAEAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Encryption.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entity" Collapsed="true">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAEBAiAAIFAAAAAECEAAIAggCAAEAAAAAAAAAAgAAY=</HashCode>
+      <FileName>Entity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntityDebuggerElement" Collapsed="true">
+    <Position X="15.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAMAAAAAAAAAAAAABEAAAAAQEAQAACAA=</HashCode>
+      <FileName>EntityDebugger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntityDebugger" Collapsed="true">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAEAAAAAAAAAAAIAIEAAABAAA=</HashCode>
+      <FileName>EntityDebugger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntityReactor" Collapsed="true">
+    <Position X="17.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEqgAaAwDAEAQAECAKFBABSCAHAyAEAIAIAAAIAQA=</HashCode>
+      <FileName>EntityReactor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFontCombo" Collapsed="true">
+    <Position X="19" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhAAIACgBAACEAQEAAAAABACAAAwAAAADAAAgQQAQ=</HashCode>
+      <FileName>FontCombo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BayTieTubeTemplate" Collapsed="true">
+    <Position X="20.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAQIEIAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>FreeTieTube.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BayTieTubeTemplates" Collapsed="true">
+    <Position X="22.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAoAAAAAAAAACAAAAAAAAAgAAAAAAQ=</HashCode>
+      <FileName>FreeTieTube.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix3D" Collapsed="true">
+    <Position X="20.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAQAAAgAAAAQAA=</HashCode>
+      <FileName>GraphicTypes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point3DArray" Collapsed="true">
+    <Position X="15.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIAAAAAAAICA=</HashCode>
+      <FileName>GraphicTypes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CIniReader" Collapsed="true">
+    <Position X="20.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAQAAAAAAAAgAAAA=</HashCode>
+      <FileName>IniReader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JobDescriptionInfo" Collapsed="true">
+    <Position X="20.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQgQABAAAAAEAACCiQRGABCAAAABAAgIgAEByhAA=</HashCode>
+      <FileName>JobDescriptionInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CKeyEncryption" Collapsed="true">
+    <Position X="22.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAEAAAAAAAAQAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>KeyEncryption.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kwik3DPolygonMesh" Collapsed="true">
+    <Position X="22.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAIAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kwik3DPolygonMesh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CKwikScafButton" Collapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAEAAAAACAAAAAAAAAAAABAQAAAAgAAAAAACAAABA=</HashCode>
+      <FileName>KwikScafButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CKwikScafColours" Collapsed="true">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KwikScafColours.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CKwikScafLicensing" Collapsed="true">
+    <Position X="15.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAIAAAAQAA=</HashCode>
+      <FileName>KwikScafLicensing.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LapboardBay" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>pAACAAoBYAAiACACBAAEIEAAASAgAYA1QGACIIECABA=</HashCode>
+      <FileName>LapboardBay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LapboardList" Collapsed="true">
+    <Position X="10.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACQBAABAAAAAAAAEAIAACAAAAAAAEQAAAAAAAAAAA=</HashCode>
+      <FileName>LapboardBay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelList" Collapsed="true">
+    <Position X="1.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAABAAAIAkCCAAAAAAAABAAAAAAAAIAQAAAgAIAA=</HashCode>
+      <FileName>LevelList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lift" Collapsed="true">
+    <Position X="12" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>OQCEiAEoEOh4UAToAALORwOTEm4BkAUAgcUghsSEEAs=</HashCode>
+      <FileName>Lift.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiftListElement" Collapsed="true">
+    <Position X="15.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAQACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>LiftList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiftList" Collapsed="true">
+    <Position X="13.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAEEAEAAAAAAACgCAAAgAAAAAIIEAAACkAgCAAAABM=</HashCode>
+      <FileName>LiftList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Line" Collapsed="true">
+    <Position X="17.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAEBCAACAAAEgAAAAAAAAAAAAAgAAAAAAABAAE=</HashCode>
+      <FileName>Line.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CListCtrlPrint" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJCIAQAAADAADAAWAAAAAAIAAgEAgQQIoQZAASAITI=</HashCode>
+      <FileName>ListCtrlPrint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix" Collapsed="true">
+    <Position X="19" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEuABhIOAeIAEsUABIQgGgMgFAAgAZEAkNAgQgIAw4g=</HashCode>
+      <FileName>Matrix.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatrixElement" Collapsed="true">
+    <Position X="22.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wIogeUn4SsSiQQ0AgmP4LBP5A2WEYcmEmJYAFo/EtxY=</HashCode>
+      <FileName>MatrixElement.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsdkMeccanoEditorReactor" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAQFWIBRqYCAgKCJRFEABAEBIAoJABDAEAAUgAAATEA=</HashCode>
+      <FileName>MdiAware.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsdkDocReactor" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAQAAAAAAgAAAAAAg=</HashCode>
+      <FileName>MdiAware.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsdkPerDocData" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAABAAAAAAAQAAgAAAAAAAEAAAAAAQAAQAAAAAAICAQ=</HashCode>
+      <FileName>MdiAware.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsdkAppDocGlobals" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgAABAAAAABAgCACABAAAAAACAAAAAAAAAABAAIE=</HashCode>
+      <FileName>MdiAware.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsdkDbReactor" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAADAAAAAAAAAAEAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>MdiAware.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectPosition" Collapsed="true">
+    <Position X="10.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAUAAAAABAAAAAAAAA=</HashCode>
+      <FileName>ObjectPosition.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectPositionArray" Collapsed="true">
+    <Position X="12" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAACAAAAAAAAgAAAAAAAAAACAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ObjectPosition.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PerRollDialog" Collapsed="true">
+    <Position X="13.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAIACEEAARAIBAAABQEAAABAGAAAQokAAACAAAgAQA=</HashCode>
+      <FileName>PerRollDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PreviewTemplate" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAACAEyQQMBAAAUABAACAAIAACAJAJgIAEggCIAgAEA=</HashCode>
+      <FileName>PreviewTemplate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RunTemplate" Collapsed="true">
+    <Position X="19" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAKYAAioAtoIEADIAQAIMEEDgBBhCSHIBhpgDAAAA=</HashCode>
+      <FileName>PreviewTemplate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BayTemplate" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>lKAiiIoqxegCgz44BS0hiiYM6nChAKipkEIgj7zOBmI=</HashCode>
+      <FileName>PreviewTemplate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LapBoardTemplate" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAAAAAhAUNABAEOABAEQhQRAACANAAgYAEUgABAQIAA=</HashCode>
+      <FileName>PreviewTemplate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPrinterJob" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAYBIAAAQAAAAAQAIAAAAAAAAAAQIAAAABQA=</HashCode>
+      <FileName>PrinterJob.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Run" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>uCMGawkIwokoiBAMhgDaoVMIEKskES8ajexhis2BLEI=</HashCode>
+      <FileName>Run.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RunList" Collapsed="true">
+    <Position X="17.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Run.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AcMemFile" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAgAAAAAAAEAQAIAAABAAACEAAAAAAQAAAAAA=</HashCode>
+      <FileName>ScaffoldArchive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScaffoldArchive" Collapsed="true">
+    <Position X="20.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQQAAAAAAAABAAAAAIAUAAAAAAAAAAQAA=</HashCode>
+      <FileName>ScaffoldArchive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StageLevelVisibleElement" Collapsed="true">
+    <Position X="10.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAEAAgAgAAAAAAAAAACAAACAAAAAgAAgAAIg=</HashCode>
+      <FileName>StageLevelVisible.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StageLevelVisible" Collapsed="true">
+    <Position X="22.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgAAAAABAIEAAgAAACAAAAACAAAEAAAgAgCAAIAAA=</HashCode>
+      <FileName>StageLevelVisible.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockListElement" Collapsed="true">
+    <Position X="13.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQBOAIAACCACQCJEJEAHFbRAKCxRAAQkQHAggkwMgAQ=</HashCode>
+      <FileName>StockListElement.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockListArray" Collapsed="true">
+    <Position X="12" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAAUEDAQAACAQZIMAEJBBgCACAEAAIFAEgEQAKAA=</HashCode>
+      <FileName>StockListElement.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SummaryElement" Collapsed="true">
+    <Position X="15.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAEGAAAIAAAAQAAwDAABEAAAAAAAAAAIAAAAEAA=</HashCode>
+      <FileName>SummaryElement.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SummaryInfo" Collapsed="true">
+    <Position X="17.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAQAAAAAAgAAAAAAAAAIAAA=</HashCode>
+      <FileName>SummaryInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisualComponents" Collapsed="true">
+    <Position X="1.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAABAgIAAAAAAAIAAEAECgAAQAAAAAAgsAAAAA=</HashCode>
+      <FileName>VisualComponents.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
