@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+<EncryptedData Type="http://www.w3.org/2001/04/xmlenc#Element" xmlns="http://www.w3.org/2001/04/xmlenc#">
+  <EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#aes256-cbc" />
+  <CipherData>
+    <CipherValue>Do29IGL/+0tlXZyHG9Vl865dfwGSRBjyLTnq7w6nwafJ+EiwrOaY9am7L+3ZGZPRVv8sShGn3vI/NxG1q9blweEGeGLepjNWwn9K5Q6xg8mjbTZTXUAYe8Q9t3UG0+fKUjW2/qrfVFHBaf1xkbssLlpklaqZtw7fZ9zLWUCKSdjsLpGsEG4uJBCmtP8wgneKeBpbdvndZe0RzXga4p5b8LxZp4dTt1Uco8oA9cRuVjTvbAklqHN5E4wof0VQOlo56heth++P6Jo3NZvMXeIPvA==</CipherValue>
+  </CipherData>
+</EncryptedData>

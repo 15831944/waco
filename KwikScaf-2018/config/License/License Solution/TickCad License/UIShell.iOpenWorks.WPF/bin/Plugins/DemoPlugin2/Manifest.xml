@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" Name="Demo Plugin2" SymbolicName="DemoPlugin2" Version="1.0.0.0" InitializedState="Active">
+  <Activator Type="DemoPlugin2.Activator" Policy="Immediate" />
+  <Runtime>
+    <Assembly Path="bin\DemoPlugin2.dll" Share="false" />
+    <Dependency BundleSymbolicName="UIShell.WpfShellPlugin" Resolution="Mandatory" />
+  </Runtime>
+  <Extension Point="UIShell.WpfShellPlugin.LinkGroups">
+    <LinkGroup DisplayName="Demo3" DefaultContentSource="DemoPlugin2.UserControl1">
+      <Link DisplayName="Menu31" Source="DemoPlugin2.UserControl1" />
+    </LinkGroup>
+  </Extension>
+</Bundle>

@@ -1,0 +1,92 @@
+﻿1>------ Rebuild All started: Project: KwikScaf2013, Configuration: Release Win32 ------
+1>  StdAfx.cpp
+1>d:\2013\projects\kwikscaf [prj_cae 209-093]\kwikscaf2013-06-12-2013\kwikscaf\kwikscaf2007\StdAfx.h(36): warning C4005: '_WIN32_WINNT' : macro redefinition
+1>          d:\2013\projects\kwikscaf [prj_cae 209-093]\kwikscaf2013-06-12-2013\kwikscaf\kwikscaf2007\StdAfx.h(35) : see previous definition of '_WIN32_WINNT'
+1>  acrxEntryPoint.cpp
+1>  AssignStageDialog.cpp
+1>  AutobuildDialog.cpp
+1>  AutobuildPropertiesToolbar.cpp
+1>  AutobuildPropertiesWnd.cpp
+1>  AutobuildToolbar.cpp
+1>  AutoBuildTools.cpp
+1>  Bay.cpp
+1>  BayDetailsDialog.cpp
+1>  BayPropertiesToolbar.cpp
+1>  BayPropToolbarWnd.cpp
+1>  BayStageLevel.cpp
+1>  BOMExtra.cpp
+1>  BOMSelectionDialog.cpp
+1>  BOMSummaryDialog.cpp
+1>  ChangeRLDlg.cpp
+1>  Component.cpp
+1>  ComponentDetails.cpp
+1>  ComponentEditor.cpp
+1>  componentList.cpp
+1>  Generating Code...
+1>  Compiling...
+1>  ComponentPartNumberSelectorDlg.cpp
+1>  controller.cpp
+1>  CoolButton.cpp
+1>  DocData.cpp
+1>  doubleArray.cpp
+1>  EditStandardsDlg.cpp
+1>  Entity.cpp
+1>  EntityDebugger.cpp
+1>  EntityReactor.cpp
+1>  FontCombo.cpp
+1>  FreeTieTube.cpp
+1>  GraphicTypes.cpp
+1>  HelpAboutDlg.cpp
+1>  JobDescriptionInfo.cpp
+1>JobDescriptionInfo.cpp(14): warning C4627: '#include <dbdict.h>': skipped when looking for precompiled header use
+1>          Add directive to 'StdAfx.h' or rebuild precompiled header
+1>JobDescriptionInfo.cpp(15): warning C4627: '#include <summinfo.h>': skipped when looking for precompiled header use
+1>          Add directive to 'StdAfx.h' or rebuild precompiled header
+1>  JobDetailsDialog.cpp
+1>  Kwik3DPolygonMesh.cpp
+1>  KwikScaf2007.cpp
+1>  KwikScafButton.cpp
+1>  KwikScafColours.cpp
+1>  KwikScafComponentEditor.cpp
+1>  Generating Code...
+1>  Compiling...
+1>  KwikscafDialog.cpp
+1>  KwikscafProgressDlg.cpp
+1>  LapboardBay.cpp
+1>  LevelList.cpp
+1>  Lift.cpp
+1>  LiftDetailsDialog.cpp
+1>  LiftList.cpp
+1>  Line.cpp
+1>  ListCtrlPrint.cpp
+1>  ListPrintPage1.cpp
+1>  ListPrintPage2.cpp
+1>  ListPrintSetup.cpp
+1>  Matrix.cpp
+1>  MatrixElement.cpp
+1>  MdiAware.cpp
+1>  MillsSystemBayEditor.cpp
+1>  ObjectPosition.cpp
+1>  PerRollDialog.cpp
+1>  PreviewTemplate.cpp
+1>  PrinterJob.cpp
+1>  Generating Code...
+1>  Compiling...
+1>  PrintStatus.cpp
+1>  Run.cpp
+1>  RunPropDialog.cpp
+1>  ScaffoldArchive.cpp
+1>  SetStagesDlg.cpp
+1>  SHKInterface.cpp
+1>  ShowComponentTypeDialog.cpp
+1>  StageLevelShowHideDlg.cpp
+1>  StageLevelVisible.cpp
+1>  StandardHeightPickerDialog.cpp
+1>  StockListElement.cpp
+1>  SummaryElement.cpp
+1>  SummaryInfo.cpp
+1>  VisualComponents.cpp
+1>  Generating Code...
+1>     Creating library D:\2013\Projects\Kwikscaf [PRJ_CAE 209-093]\KwikScaf2013-06-12-2013\KwikScaf\Win32\Release\KwikScaf2013.lib and object D:\2013\Projects\Kwikscaf [PRJ_CAE 209-093]\KwikScaf2013-06-12-2013\KwikScaf\Win32\Release\KwikScaf2013.exp
+1>  KwikScaf2007.vcxproj -> D:\2013\Projects\Kwikscaf [PRJ_CAE 209-093]\KwikScaf2013-06-12-2013\KwikScaf\Win32\Release\KwikScaf2013.arx
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========

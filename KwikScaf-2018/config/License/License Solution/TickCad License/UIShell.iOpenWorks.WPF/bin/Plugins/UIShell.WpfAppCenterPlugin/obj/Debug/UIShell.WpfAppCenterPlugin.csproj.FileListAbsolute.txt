@@ -1,0 +1,781 @@
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.iOpenWorks.BundleRepository.dll
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\ctbimlogo.png
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Resources\KKMLogo.png
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.dll
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.WpfAppCenterPlugin.pdb
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.dll
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.BundleManagementService.dll
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\UIShell.OSGi.dll
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\Microsoft.Windows.Shell.dll
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.pdb
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\bin\FirstFloor.ModernUI.xml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csprojResolveAssemblyReference.cache
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterUserControl.g.cs
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.g.cs
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\BundleManagementUserControl.g.cs
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\InstallBundlesWindow.g.cs
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.cache
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin_MarkupCompile.lref
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\AppCenterWindow.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.g.resources
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.Properties.Resources.resources
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.csproj.GenerateResource.Cache
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.dll
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfAppCenterPlugin\obj\Debug\UIShell.WpfAppCenterPlugin.pdb

@@ -1,0 +1,272 @@
+﻿Build started 12/7/2013 6:00:12 PM.
+     1>Project "D:\2013\Projects\Kwikscaf [PRJ_CAE 209-093]\KwikScaf2014-06-12-2013\64Bit\KwikScaf2014-29-10-2013\KwikScaf2007\KwikScaf2007.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "x64\Release\KwikScaf2014.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "x64\Release\KwikScaf2014.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I"C:\ObjectARX 2014\inc" /I"C:\ObjectARX 2014\lib" /I"C:\ObjectARX 2014\inc-x64" /AI"C:\Program Files\Autodesk\AutoCAD 2014" /nologo /W1 /WX- /O2 /D WIN32 /D _WINDOWS /D NDEBUG /D KWIKSCAF2007_MODULE /D _AFXEXT /D _ACRXAPP /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /GF /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Yc"StdAfx.h" /Fp"x64\Release\KwikScaf2014.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+     1>d:\2013\projects\kwikscaf [prj_cae 209-093]\kwikscaf2014-06-12-2013\64bit\kwikscaf2014-29-10-2013\kwikscaf2007\StdAfx.h(36): warning C4005: '_WIN32_WINNT' : macro redefinition
+                 d:\2013\projects\kwikscaf [prj_cae 209-093]\kwikscaf2014-06-12-2013\64bit\kwikscaf2014-29-10-2013\kwikscaf2007\StdAfx.h(35) : see previous definition of '_WIN32_WINNT'
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I"C:\ObjectARX 2014\inc" /I"C:\ObjectARX 2014\lib" /I"C:\ObjectARX 2014\inc-x64" /AI"C:\Program Files\Autodesk\AutoCAD 2014" /nologo /W1 /WX- /O2 /D WIN32 /D _WINDOWS /D NDEBUG /D KWIKSCAF2007_MODULE /D _AFXEXT /D _ACRXAPP /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /GF /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Yu"StdAfx.h" /Fp"x64\Release\KwikScaf2014.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt acrxEntryPoint.cpp AssignStageDialog.cpp AutobuildDialog.cpp AutobuildPropertiesToolbar.cpp AutobuildPropertiesWnd.cpp AutobuildToolbar.cpp AutoBuildTools.cpp Bay.cpp BayDetailsDialog.cpp BayPropertiesToolbar.cpp BayPropToolbarWnd.cpp BayStageLevel.cpp BOMExtra.cpp BOMSelectionDialog.cpp BOMSummaryDialog.cpp ChangeRLDlg.cpp Component.cpp ComponentDetails.cpp ComponentEditor.cpp componentList.cpp ComponentPartNumberSelectorDlg.cpp controller.cpp CoolButton.cpp DocData.cpp doubleArray.cpp EditStandardsDlg.cpp Entity.cpp EntityDebugger.cpp EntityReactor.cpp FontCombo.cpp FreeTieTube.cpp GraphicTypes.cpp HelpAboutDlg.cpp JobDescriptionInfo.cpp JobDetailsDialog.cpp Kwik3DPolygonMesh.cpp KwikScaf2007.cpp KwikScafButton.cpp KwikScafColours.cpp KwikScafComponentEditor.cpp KwikscafDialog.cpp KwikscafProgressDlg.cpp LapboardBay.cpp LevelList.cpp Lift.cpp LiftDetailsDialog.cpp LiftList.cpp Line.cpp ListCtrlPrint.cpp ListPrintPage1.cpp ListPrintPage2.cpp ListPrintSetup.cpp Matrix.cpp MatrixElement.cpp MdiAware.cpp MillsSystemBayEditor.cpp ObjectPosition.cpp PerRollDialog.cpp PreviewTemplate.cpp PrinterJob.cpp PrintStatus.cpp Run.cpp RunPropDialog.cpp ScaffoldArchive.cpp SetStagesDlg.cpp SHKInterface.cpp ShowComponentTypeDialog.cpp StageLevelShowHideDlg.cpp StageLevelVisible.cpp StandardHeightPickerDialog.cpp StockListElement.cpp SummaryElement.cpp SummaryInfo.cpp VisualComponents.cpp
+         acrxEntryPoint.cpp
+         AssignStageDialog.cpp
+         AutobuildDialog.cpp
+         AutobuildPropertiesToolbar.cpp
+         AutobuildPropertiesWnd.cpp
+         AutobuildToolbar.cpp
+         AutoBuildTools.cpp
+         Bay.cpp
+         BayDetailsDialog.cpp
+         BayPropertiesToolbar.cpp
+         BayPropToolbarWnd.cpp
+         BayStageLevel.cpp
+         BOMExtra.cpp
+         BOMSelectionDialog.cpp
+         BOMSummaryDialog.cpp
+         ChangeRLDlg.cpp
+         Component.cpp
+         ComponentDetails.cpp
+         ComponentEditor.cpp
+         componentList.cpp
+         Generating Code...
+         Compiling...
+         ComponentPartNumberSelectorDlg.cpp
+         controller.cpp
+         CoolButton.cpp
+         DocData.cpp
+         doubleArray.cpp
+         EditStandardsDlg.cpp
+         Entity.cpp
+         EntityDebugger.cpp
+         EntityReactor.cpp
+         FontCombo.cpp
+         FreeTieTube.cpp
+         GraphicTypes.cpp
+         HelpAboutDlg.cpp
+         JobDescriptionInfo.cpp
+     1>JobDescriptionInfo.cpp(14): warning C4627: '#include <dbdict.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>JobDescriptionInfo.cpp(15): warning C4627: '#include <summinfo.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+         JobDetailsDialog.cpp
+         Kwik3DPolygonMesh.cpp
+         KwikScaf2007.cpp
+         KwikScafButton.cpp
+         KwikScafColours.cpp
+         KwikScafComponentEditor.cpp
+         Generating Code...
+         Compiling...
+         KwikscafDialog.cpp
+         KwikscafProgressDlg.cpp
+         LapboardBay.cpp
+         LevelList.cpp
+         Lift.cpp
+         LiftDetailsDialog.cpp
+         LiftList.cpp
+         Line.cpp
+         ListCtrlPrint.cpp
+         ListPrintPage1.cpp
+         ListPrintPage2.cpp
+         ListPrintSetup.cpp
+         Matrix.cpp
+         MatrixElement.cpp
+         MdiAware.cpp
+         MillsSystemBayEditor.cpp
+         ObjectPosition.cpp
+         PerRollDialog.cpp
+         PreviewTemplate.cpp
+         PrinterJob.cpp
+         Generating Code...
+         Compiling...
+         PrintStatus.cpp
+         Run.cpp
+         RunPropDialog.cpp
+         ScaffoldArchive.cpp
+         SetStagesDlg.cpp
+         SHKInterface.cpp
+         ShowComponentTypeDialog.cpp
+         StageLevelShowHideDlg.cpp
+         StageLevelVisible.cpp
+         StandardHeightPickerDialog.cpp
+         StockListElement.cpp
+         SummaryElement.cpp
+         SummaryInfo.cpp
+         VisualComponents.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /Ix64\Release\ /nologo /fo"x64\Release\KwikScaf2007.res" KwikScaf2007.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"x64\Release\KwikScaf2014.arx.embed.manifest.res" x64\Release\KwikScaf2014_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\2013\Projects\Kwikscaf [PRJ_CAE 209-093]\KwikScaf2014-06-12-2013\64Bit\KwikScaf2014-29-10-2013\x64\Release\KwikScaf2014.arx" /INCREMENTAL /NOLOGO /LIBPATH:"C:\ObjectARX 2014\lib-x64" /LIBPATH:"C:\ObjectARX 2014\inc" /LIBPATH:"D:\2013\Projects\Kwikscaf\KwikScaf2007-19-07-2013\KwikScaf2007" SentinelKeys.lib /MANIFEST /ManifestFile:"x64\Release\KwikScaf2014.arx.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\2013\Projects\Kwikscaf [PRJ_CAE 209-093]\KwikScaf2014-06-12-2013\64Bit\KwikScaf2014-29-10-2013\x64\Release\KwikScaf2014.lib" /MACHINE:X64 /DLL x64\Release\KwikScaf2007.res
+         x64\Release\KwikScaf2014.arx.embed.manifest.res
+         x64\Release\acrxEntryPoint.obj
+         x64\Release\AssignStageDialog.obj
+         x64\Release\AutobuildDialog.obj
+         x64\Release\AutobuildPropertiesToolbar.obj
+         x64\Release\AutobuildPropertiesWnd.obj
+         x64\Release\AutobuildToolbar.obj
+         x64\Release\AutoBuildTools.obj
+         x64\Release\Bay.obj
+         x64\Release\BayDetailsDialog.obj
+         x64\Release\BayPropertiesToolbar.obj
+         x64\Release\BayPropToolbarWnd.obj
+         x64\Release\BayStageLevel.obj
+         x64\Release\BOMExtra.obj
+         x64\Release\BOMSelectionDialog.obj
+         x64\Release\BOMSummaryDialog.obj
+         x64\Release\ChangeRLDlg.obj
+         x64\Release\Component.obj
+         x64\Release\ComponentDetails.obj
+         x64\Release\ComponentEditor.obj
+         x64\Release\componentList.obj
+         x64\Release\ComponentPartNumberSelectorDlg.obj
+         x64\Release\controller.obj
+         x64\Release\CoolButton.obj
+         x64\Release\DocData.obj
+         x64\Release\doubleArray.obj
+         x64\Release\EditStandardsDlg.obj
+         x64\Release\Entity.obj
+         x64\Release\EntityDebugger.obj
+         x64\Release\EntityReactor.obj
+         x64\Release\FontCombo.obj
+         x64\Release\FreeTieTube.obj
+         x64\Release\GraphicTypes.obj
+         x64\Release\HelpAboutDlg.obj
+         x64\Release\JobDescriptionInfo.obj
+         x64\Release\JobDetailsDialog.obj
+         x64\Release\Kwik3DPolygonMesh.obj
+         x64\Release\KwikScaf2007.obj
+         x64\Release\KwikScafButton.obj
+         x64\Release\KwikScafColours.obj
+         x64\Release\KwikScafComponentEditor.obj
+         x64\Release\KwikscafDialog.obj
+         x64\Release\KwikscafProgressDlg.obj
+         x64\Release\LapboardBay.obj
+         x64\Release\LevelList.obj
+         x64\Release\Lift.obj
+         x64\Release\LiftDetailsDialog.obj
+         x64\Release\LiftList.obj
+         x64\Release\Line.obj
+         x64\Release\ListCtrlPrint.obj
+         x64\Release\ListPrintPage1.obj
+         x64\Release\ListPrintPage2.obj
+         x64\Release\ListPrintSetup.obj
+         x64\Release\Matrix.obj
+         x64\Release\MatrixElement.obj
+         x64\Release\MdiAware.obj
+         x64\Release\MillsSystemBayEditor.obj
+         x64\Release\ObjectPosition.obj
+         x64\Release\PerRollDialog.obj
+         x64\Release\PreviewTemplate.obj
+         x64\Release\PrinterJob.obj
+         x64\Release\PrintStatus.obj
+         x64\Release\Run.obj
+         x64\Release\RunPropDialog.obj
+         x64\Release\ScaffoldArchive.obj
+         x64\Release\SetStagesDlg.obj
+         x64\Release\SHKInterface.obj
+         x64\Release\ShowComponentTypeDialog.obj
+         x64\Release\StageLevelShowHideDlg.obj
+         x64\Release\StageLevelVisible.obj
+         x64\Release\StandardHeightPickerDialog.obj
+         x64\Release\StdAfx.obj
+         x64\Release\StockListElement.obj
+         x64\Release\SummaryElement.obj
+         x64\Release\SummaryInfo.obj
+         x64\Release\VisualComponents.obj
+            Creating library D:\2013\Projects\Kwikscaf [PRJ_CAE 209-093]\KwikScaf2014-06-12-2013\64Bit\KwikScaf2014-29-10-2013\x64\Release\KwikScaf2014.lib and object D:\2013\Projects\Kwikscaf [PRJ_CAE 209-093]\KwikScaf2014-06-12-2013\64Bit\KwikScaf2014-29-10-2013\x64\Release\KwikScaf2014.exp
+         KwikScaf2007.vcxproj -> D:\2013\Projects\Kwikscaf [PRJ_CAE 209-093]\KwikScaf2014-06-12-2013\64Bit\KwikScaf2014-29-10-2013\x64\Release\KwikScaf2014.arx
+       Manifest:
+         Deleting file "x64\Release\KwikScaf2014.arx.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"x64\Release\KwikScaf2014.arx.embed.manifest" /manifest x64\Release\KwikScaf2014.arx.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"x64\Release\KwikScaf2014.arx.embed.manifest.res" x64\Release\KwikScaf2014_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\2013\Projects\Kwikscaf [PRJ_CAE 209-093]\KwikScaf2014-06-12-2013\64Bit\KwikScaf2014-29-10-2013\x64\Release\KwikScaf2014.arx" /INCREMENTAL /NOLOGO /LIBPATH:"C:\ObjectARX 2014\lib-x64" /LIBPATH:"C:\ObjectARX 2014\inc" /LIBPATH:"D:\2013\Projects\Kwikscaf\KwikScaf2007-19-07-2013\KwikScaf2007" SentinelKeys.lib /MANIFEST /ManifestFile:"x64\Release\KwikScaf2014.arx.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\2013\Projects\Kwikscaf [PRJ_CAE 209-093]\KwikScaf2014-06-12-2013\64Bit\KwikScaf2014-29-10-2013\x64\Release\KwikScaf2014.lib" /MACHINE:X64 /DLL x64\Release\KwikScaf2007.res
+         x64\Release\KwikScaf2014.arx.embed.manifest.res
+         x64\Release\acrxEntryPoint.obj
+         x64\Release\AssignStageDialog.obj
+         x64\Release\AutobuildDialog.obj
+         x64\Release\AutobuildPropertiesToolbar.obj
+         x64\Release\AutobuildPropertiesWnd.obj
+         x64\Release\AutobuildToolbar.obj
+         x64\Release\AutoBuildTools.obj
+         x64\Release\Bay.obj
+         x64\Release\BayDetailsDialog.obj
+         x64\Release\BayPropertiesToolbar.obj
+         x64\Release\BayPropToolbarWnd.obj
+         x64\Release\BayStageLevel.obj
+         x64\Release\BOMExtra.obj
+         x64\Release\BOMSelectionDialog.obj
+         x64\Release\BOMSummaryDialog.obj
+         x64\Release\ChangeRLDlg.obj
+         x64\Release\Component.obj
+         x64\Release\ComponentDetails.obj
+         x64\Release\ComponentEditor.obj
+         x64\Release\componentList.obj
+         x64\Release\ComponentPartNumberSelectorDlg.obj
+         x64\Release\controller.obj
+         x64\Release\CoolButton.obj
+         x64\Release\DocData.obj
+         x64\Release\doubleArray.obj
+         x64\Release\EditStandardsDlg.obj
+         x64\Release\Entity.obj
+         x64\Release\EntityDebugger.obj
+         x64\Release\EntityReactor.obj
+         x64\Release\FontCombo.obj
+         x64\Release\FreeTieTube.obj
+         x64\Release\GraphicTypes.obj
+         x64\Release\HelpAboutDlg.obj
+         x64\Release\JobDescriptionInfo.obj
+         x64\Release\JobDetailsDialog.obj
+         x64\Release\Kwik3DPolygonMesh.obj
+         x64\Release\KwikScaf2007.obj
+         x64\Release\KwikScafButton.obj
+         x64\Release\KwikScafColours.obj
+         x64\Release\KwikScafComponentEditor.obj
+         x64\Release\KwikscafDialog.obj
+         x64\Release\KwikscafProgressDlg.obj
+         x64\Release\LapboardBay.obj
+         x64\Release\LevelList.obj
+         x64\Release\Lift.obj
+         x64\Release\LiftDetailsDialog.obj
+         x64\Release\LiftList.obj
+         x64\Release\Line.obj
+         x64\Release\ListCtrlPrint.obj
+         x64\Release\ListPrintPage1.obj
+         x64\Release\ListPrintPage2.obj
+         x64\Release\ListPrintSetup.obj
+         x64\Release\Matrix.obj
+         x64\Release\MatrixElement.obj
+         x64\Release\MdiAware.obj
+         x64\Release\MillsSystemBayEditor.obj
+         x64\Release\ObjectPosition.obj
+         x64\Release\PerRollDialog.obj
+         x64\Release\PreviewTemplate.obj
+         x64\Release\PrinterJob.obj
+         x64\Release\PrintStatus.obj
+         x64\Release\Run.obj
+         x64\Release\RunPropDialog.obj
+         x64\Release\ScaffoldArchive.obj
+         x64\Release\SetStagesDlg.obj
+         x64\Release\SHKInterface.obj
+         x64\Release\ShowComponentTypeDialog.obj
+         x64\Release\StageLevelShowHideDlg.obj
+         x64\Release\StageLevelVisible.obj
+         x64\Release\StandardHeightPickerDialog.obj
+         x64\Release\StdAfx.obj
+         x64\Release\StockListElement.obj
+         x64\Release\SummaryElement.obj
+         x64\Release\SummaryInfo.obj
+         x64\Release\VisualComponents.obj
+         KwikScaf2007.vcxproj -> D:\2013\Projects\Kwikscaf [PRJ_CAE 209-093]\KwikScaf2014-06-12-2013\64Bit\KwikScaf2014-29-10-2013\x64\Release\KwikScaf2014.arx
+       FinalizeBuildStatus:
+         Deleting file "x64\Release\KwikScaf2014.unsuccessfulbuild".
+         Touching "x64\Release\KwikScaf2014.lastbuildstate".
+     1>Done Building Project "D:\2013\Projects\Kwikscaf [PRJ_CAE 209-093]\KwikScaf2014-06-12-2013\64Bit\KwikScaf2014-29-10-2013\KwikScaf2007\KwikScaf2007.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:27.13

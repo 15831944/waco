@@ -1,0 +1,40 @@
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\MyDemoPlugin.dll
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\MyDemoPlugin.pdb
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\FirstFloor.ModernUI.dll
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\UIShell.OSGi.dll
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\Microsoft.Windows.Shell.dll
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\FirstFloor.ModernUI.pdb
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\FirstFloor.ModernUI.xml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\MyDemoPlugin.csprojResolveAssemblyReference.cache
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\UserControl1.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\UserControl1.g.cs
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\MyDemoPlugin_MarkupCompile.cache
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\MyDemoPlugin.g.resources
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\MyDemoPlugin.dll
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\MyDemoPlugin.pdb
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\MyDemoPlugin.dll
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\MyDemoPlugin.pdb
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\FirstFloor.ModernUI.dll
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\Microsoft.Windows.Shell.dll
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\FirstFloor.ModernUI.pdb
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\FirstFloor.ModernUI.xml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\MyDemoPlugin.csprojResolveAssemblyReference.cache
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\UserControl1.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\UserControl1.g.cs
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\MyDemoPlugin_MarkupCompile.cache
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\MyDemoPlugin.g.resources
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\MyDemoPlugin.dll
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\MyDemoPlugin.pdb
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\MyDemoPlugin.dll
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\MyDemoPlugin.pdb
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\FirstFloor.ModernUI.dll
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\Microsoft.Windows.Shell.dll
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\FirstFloor.ModernUI.pdb
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\bin\FirstFloor.ModernUI.xml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\MyDemoPlugin.csprojResolveAssemblyReference.cache
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\UserControl1.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\UserControl1.g.cs
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\MyDemoPlugin_MarkupCompile.cache
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\MyDemoPlugin.g.resources
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\MyDemoPlugin.dll
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\MyDemoPlugin\obj\Debug\MyDemoPlugin.pdb

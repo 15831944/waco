@@ -1,0 +1,596 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{b854da15-c4c2-4d0e-abf6-c39fde87c94a}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;idl;odl</Extensions>
+    </Filter>
+    <Filter Include="Include Files">
+      <UniqueIdentifier>{56b23f78-8bdb-43f1-9188-e880115a3955}</UniqueIdentifier>
+      <Extensions>h;hh;hxx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{23d603a2-880e-4999-a7ee-40cac91ab6e3}</UniqueIdentifier>
+      <Extensions>rc;ico;bmp;cur;jpg;gif</Extensions>
+    </Filter>
+    <Filter Include="Miscellaneous Files">
+      <UniqueIdentifier>{c1d581ca-c435-443e-b3e4-c3b5da5e8fff}</UniqueIdentifier>
+      <Extensions>reg;rgs;mak;clw;vsdir;vsz;css;inf;vcproj;csproj</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="acrxEntryPoint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AssignStageDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AutobuildDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AutobuildPropertiesToolbar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AutobuildPropertiesWnd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AutobuildToolbar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AutoBuildTools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BayDetailsDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BayPropertiesToolbar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BayPropToolbarWnd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BayStageLevel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BOMExtra.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BOMSelectionDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BOMSummaryDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChangeRLDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Component.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponentDetails.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponentEditor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="componentList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponentPartNumberSelectorDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="controller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CoolButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DocData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="doubleArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EditStandardsDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityDebugger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityReactor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FontCombo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FreeTieTube.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicTypes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HelpAboutDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="JobDescriptionInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="JobDetailsDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Kwik3DPolygonMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KwikScaf2007.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KwikScafButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KwikScafColours.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KwikScafComponentEditor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KwikscafDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KwikscafProgressDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LapboardBay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lift.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LiftDetailsDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LiftList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Line.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ListCtrlPrint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ListPrintPage1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ListPrintPage2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ListPrintSetup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MatrixElement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MdiAware.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MillsSystemBayEditor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectPosition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PerRollDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PreviewTemplate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PrinterJob.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PrintStatus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Run.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RunPropDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScaffoldArchive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SetStagesDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SHKInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShowComponentTypeDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StageLevelShowHideDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StageLevelVisible.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StandardHeightPickerDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StockListElement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SummaryElement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SummaryInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VisualComponents.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AssignStageDialog.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AutobuildDialog.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AutobuildPropertiesToolbar.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AutobuildPropertiesWnd.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AutobuildToolbar.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AutoBuildTools.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bay.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BayDefinitions.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BayDetailsDialog.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BayPropertiesToolbar.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BayPropToolbarWnd.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BayStageLevel.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BOMExtra.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BOMSelectionDialog.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BOMSummaryDialog.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChangeRLDlg.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ColourCode.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentDefinitions.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentDetails.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentEditor.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="componentList.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentPartNumberSelectorDlg.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="controller.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CoolButton.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DocData.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="doubleArray.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EditStandardsDlg.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityDebugger.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityDefinitions.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityReactor.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FontCombo.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FreeTieTube.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicTypes.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HelpAboutDlg.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="JobDescriptionInfo.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="JobDetailsDialog.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Kwik3DPolygonMesh.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KwikScafButton.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KwikScafColours.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KwikScafComponentEditor.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KwikscafDialog.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KwikscafProgressDlg.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LapboardBay.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelList.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Lift.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LiftDetailsDialog.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LiftList.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Line.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListCtrlPrint.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListPrintPage1.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListPrintPage2.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListPrintSetup.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MaterialTypeDefinitions.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MatrixElement.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MdiAware.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="meccano.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeccanoDefinitions.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MillsSystemBayEditor.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectPosition.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PerRollDialog.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PreviewTemplate.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PrinterJob.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PrintManager.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PrintStatus.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rbcommon.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rbioeng.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rbstatus.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rbtypes.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Run.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RunPropDialog.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ScaffoldArchive.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SentinelKeys.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SentinelKeysLicense.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SentinelKeystypes.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Serialization.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SetStagesDlg.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShowComponentTypeDialog.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StageLevelShowHideDlg.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StageLevelVisible.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StagesPlanksEtcDefinitions.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StandardHeightPickerDialog.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StockListElement.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SummaryElement.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SummaryInfo.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VersionDefinitions.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VisualComponents.h">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bayprop.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ChangeRL02.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="cursor1.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Res\cursor1.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Hopup0Horizontal.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Hopup0Vertical.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Hopup1Horizontal.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Hopup1Vertical.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Hopup2Horizontal.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Hopup2Vertical.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Hopup3Horizontal.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Hopup3Vertical.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Res\KwikScaf About Box - HiRes.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pagelayout.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Res\VC Editor Logo.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Res\VC Insert Logo.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="avi1.bin">
+      <Filter>Miscellaneous Files</Filter>
+    </None>
+    <None Include="..\KwikScaf.cui">
+      <Filter>Miscellaneous Files</Filter>
+    </None>
+    <None Include="..\KwikScaf.dll">
+      <Filter>Miscellaneous Files</Filter>
+    </None>
+    <None Include="..\KwikScaf.lin">
+      <Filter>Miscellaneous Files</Filter>
+    </None>
+    <None Include="..\KwikScaf.mnu">
+      <Filter>Miscellaneous Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="KwikScaf2007.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

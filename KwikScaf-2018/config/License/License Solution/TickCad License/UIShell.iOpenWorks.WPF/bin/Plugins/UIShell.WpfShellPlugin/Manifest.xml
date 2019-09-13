@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" Name="WPF Shell Plugin" SymbolicName="UIShell.WpfShellPlugin" Version="1.0.0.5" InitializedState="Active" StartLevel="2">
+  <Activator Type="UIShell.WpfShellPlugin.BundleActivator" Policy="Immediate" />
+  <Runtime>
+    <Assembly Path="bin\UIShell.WpfShellPlugin.dll" Share="true" />
+    <Assembly Path="bin\FirstFloor.ModernUI.dll" Share="true" />
+    <Assembly Path="bin\Microsoft.Windows.Shell.dll" Share="true" />
+  </Runtime>
+  <Extension Point="PageFlowService.PageNode">
+    <PageNode Name="MainPage" Priority="50" Value="UIShell.WpfShellPlugin.MainWindow" />
+  </Extension>
+  <Extension Point="UIShell.BundleManagementOptions">
+    <BundleManagementOption AllowToStarted="true" AllowToStopped="false" AllowToUninstalled="true" />
+  </Extension>
+  <Extension Point="UIShell.WpfShellPlugin.LinkGroups">
+    <LinkGroup DisplayName="welcome" DefaultContentSource="UIShell.WpfShellPlugin.Pages.Introduction">
+      <Link DisplayName="Introduction" Source="UIShell.WpfShellPlugin.Pages.Introduction" />
+    </LinkGroup>
+    <LinkGroup DisplayName="setting" DefaultContentSource="UIShell.WpfShellPlugin.Pages.Settings" GroupName="Settings" IsTitleLink="True">
+      <Link DisplayName="Appearance" Source="UIShell.WpfShellPlugin.Pages.Settings" />
+    </LinkGroup>
+  </Extension>
+</Bundle>

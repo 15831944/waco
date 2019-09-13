@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="TickCad.Content.About"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <ScrollViewer>
+            <StackPanel MinWidth="200">
+                <TextBlock Text="ABOUT" Style="{StaticResource Heading2}" />
+                <TextBlock  Margin="0,0,0,8" TextWrapping="Wrap" TextAlignment="Justify" >
+                  <LineBreak/>
+                    <Grid MinWidth="250">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="80*" />
+                            <ColumnDefinition Width="10*" />
+                            <ColumnDefinition Width="200*" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="20*"/>
+                            <RowDefinition Height="20*"/>
+                            <RowDefinition Height="20*"/>
+                            <RowDefinition Height="20*"/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <TextBlock Grid.Row="0" Grid.Column="0" Text="Product Name " /> 
+                        <TextBlock Grid.Row="0" Grid.Column="1" Text=" :" /> 
+                        <TextBlock Grid.Row="0" Grid.Column="2" Text=" Kwikscaf License Manager" /> 
+                        <TextBlock Grid.Row="1" Grid.Column="0" Text="Version " /> 
+                        <TextBlock Grid.Row="1" Grid.Column="1" Text=" :" /> 
+                        <TextBlock Grid.Row="1" Grid.Column="2" Text=" V 1.0" /> 
+                        <TextBlock Grid.Row="2" Grid.Column="0" Text="Description " /> 
+                        <TextBlock Grid.Row="2" Grid.Column="1" Text=" :" /> 
+                        <TextBlock Grid.Row="2" Grid.Column="2" TextWrapping="Wrap" Text=" Creation Of License Key" /> 
+                        <TextBlock Grid.Row="3" Grid.Column="0" Text="Maintained by " /> 
+                        <TextBlock Grid.Row="3" Grid.Column="1" Text=" :" /> 
+                        <TextBlock Grid.Row="3" Grid.Column="2" Text=" KKM Soft(P) Ltd. " />
+                    </Grid>
+                </TextBlock>
+               
+                    
+               
+
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

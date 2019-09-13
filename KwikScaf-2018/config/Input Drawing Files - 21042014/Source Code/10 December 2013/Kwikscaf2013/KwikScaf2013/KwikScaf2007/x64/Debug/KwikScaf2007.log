@@ -1,0 +1,187 @@
+﻿Build started 11/19/2013 12:00:20 PM.
+     1>Project "D:\2013\Projects\Kwikscaf\KwikScaf2013-14-11-2013\64Bit\KwikScaf\KwikScaf2007\KwikScaf2007.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "x64\Debug\KwikScaf2013.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "x64\Debug\KwikScaf2013.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I"C:\ObjectARX 2013\inc" /I"C:\ObjectARX 2013\lib" /I"C:\ObjectARX 2013\inc-x64" /AI"C:\Program Files\Autodesk\AutoCAD 2014" /Zi /nologo /W1 /WX- /Od /D WIN32 /D _WINDOWS /D KWIKSCAF2007_MODULE /D _AFXEXT /D _ACRXAPP /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /GF- /Gm- /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Yc"StdAfx.h" /Fp"x64\Debug\KwikScaf2013.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+     1>d:\2013\projects\kwikscaf\kwikscaf2013-14-11-2013\64bit\kwikscaf\kwikscaf2007\StdAfx.h(36): warning C4005: '_WIN32_WINNT' : macro redefinition
+                 d:\2013\projects\kwikscaf\kwikscaf2013-14-11-2013\64bit\kwikscaf\kwikscaf2007\StdAfx.h(35) : see previous definition of '_WIN32_WINNT'
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I"C:\ObjectARX 2013\inc" /I"C:\ObjectARX 2013\lib" /I"C:\ObjectARX 2013\inc-x64" /AI"C:\Program Files\Autodesk\AutoCAD 2014" /Zi /nologo /W1 /WX- /Od /D WIN32 /D _WINDOWS /D KWIKSCAF2007_MODULE /D _AFXEXT /D _ACRXAPP /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /GF- /Gm- /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Yu"StdAfx.h" /Fp"x64\Debug\KwikScaf2013.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt acrxEntryPoint.cpp AssignStageDialog.cpp AutobuildDialog.cpp AutobuildPropertiesToolbar.cpp AutobuildPropertiesWnd.cpp AutobuildToolbar.cpp AutoBuildTools.cpp Bay.cpp BayDetailsDialog.cpp BayPropertiesToolbar.cpp BayPropToolbarWnd.cpp BayStageLevel.cpp BOMExtra.cpp BOMSelectionDialog.cpp BOMSummaryDialog.cpp ChangeRLDlg.cpp Component.cpp ComponentDetails.cpp ComponentEditor.cpp componentList.cpp ComponentPartNumberSelectorDlg.cpp controller.cpp CoolButton.cpp DocData.cpp doubleArray.cpp EditStandardsDlg.cpp Entity.cpp EntityDebugger.cpp EntityReactor.cpp FontCombo.cpp FreeTieTube.cpp GraphicTypes.cpp HelpAboutDlg.cpp JobDescriptionInfo.cpp JobDetailsDialog.cpp Kwik3DPolygonMesh.cpp KwikScaf2007.cpp KwikScafButton.cpp KwikScafColours.cpp KwikScafComponentEditor.cpp KwikscafDialog.cpp KwikscafProgressDlg.cpp LapboardBay.cpp LevelList.cpp Lift.cpp LiftDetailsDialog.cpp LiftList.cpp Line.cpp ListCtrlPrint.cpp ListPrintPage1.cpp ListPrintPage2.cpp ListPrintSetup.cpp Matrix.cpp MatrixElement.cpp MdiAware.cpp MillsSystemBayEditor.cpp ObjectPosition.cpp PerRollDialog.cpp PreviewTemplate.cpp PrinterJob.cpp PrintStatus.cpp Run.cpp RunPropDialog.cpp ScaffoldArchive.cpp SetStagesDlg.cpp SHKInterface.cpp ShowComponentTypeDialog.cpp StageLevelShowHideDlg.cpp StageLevelVisible.cpp StandardHeightPickerDialog.cpp StockListElement.cpp SummaryElement.cpp SummaryInfo.cpp VisualComponents.cpp
+         acrxEntryPoint.cpp
+         AssignStageDialog.cpp
+         AutobuildDialog.cpp
+         AutobuildPropertiesToolbar.cpp
+         AutobuildPropertiesWnd.cpp
+         AutobuildToolbar.cpp
+         AutoBuildTools.cpp
+         Bay.cpp
+         BayDetailsDialog.cpp
+         BayPropertiesToolbar.cpp
+         BayPropToolbarWnd.cpp
+         BayStageLevel.cpp
+         BOMExtra.cpp
+         BOMSelectionDialog.cpp
+         BOMSummaryDialog.cpp
+         ChangeRLDlg.cpp
+         Component.cpp
+         ComponentDetails.cpp
+         ComponentEditor.cpp
+         componentList.cpp
+         Generating Code...
+         Compiling...
+         ComponentPartNumberSelectorDlg.cpp
+         controller.cpp
+         CoolButton.cpp
+         DocData.cpp
+         doubleArray.cpp
+         EditStandardsDlg.cpp
+         Entity.cpp
+         EntityDebugger.cpp
+         EntityReactor.cpp
+         FontCombo.cpp
+         FreeTieTube.cpp
+         GraphicTypes.cpp
+         HelpAboutDlg.cpp
+         JobDescriptionInfo.cpp
+     1>JobDescriptionInfo.cpp(14): warning C4627: '#include <dbdict.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>JobDescriptionInfo.cpp(15): warning C4627: '#include <summinfo.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+         JobDetailsDialog.cpp
+         Kwik3DPolygonMesh.cpp
+         KwikScaf2007.cpp
+         KwikScafButton.cpp
+         KwikScafColours.cpp
+         KwikScafComponentEditor.cpp
+         Generating Code...
+         Compiling...
+         KwikscafDialog.cpp
+         KwikscafProgressDlg.cpp
+         LapboardBay.cpp
+         LevelList.cpp
+         Lift.cpp
+         LiftDetailsDialog.cpp
+         LiftList.cpp
+         Line.cpp
+         ListCtrlPrint.cpp
+         ListPrintPage1.cpp
+         ListPrintPage2.cpp
+         ListPrintSetup.cpp
+         Matrix.cpp
+         MatrixElement.cpp
+         MdiAware.cpp
+         MillsSystemBayEditor.cpp
+         ObjectPosition.cpp
+         PerRollDialog.cpp
+         PreviewTemplate.cpp
+         PrinterJob.cpp
+         Generating Code...
+         Compiling...
+         PrintStatus.cpp
+         Run.cpp
+         RunPropDialog.cpp
+         ScaffoldArchive.cpp
+         SetStagesDlg.cpp
+         SHKInterface.cpp
+         ShowComponentTypeDialog.cpp
+         StageLevelShowHideDlg.cpp
+         StageLevelVisible.cpp
+         StandardHeightPickerDialog.cpp
+         StockListElement.cpp
+         SummaryElement.cpp
+         SummaryInfo.cpp
+         VisualComponents.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /Ix64\Debug\ /nologo /fo"x64\Debug\KwikScaf2007.res" KwikScaf2007.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\2013\Projects\Kwikscaf\KwikScaf2013-14-11-2013\64Bit\KwikScaf\x64\Debug\KwikScaf2013.arx" /INCREMENTAL /NOLOGO /LIBPATH:"C:\ObjectARX 2013\lib-x64" /LIBPATH:"C:\ObjectARX 2013\inc" SentinelKeys.lib acdb19.lib acge19.lib accore.lib /MANIFEST:NO /DEBUG /PDB:"D:\2013\Projects\Kwikscaf\KwikScaf2013-14-11-2013\64Bit\KwikScaf\x64\Debug\KwikScaf2013.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\2013\Projects\Kwikscaf\KwikScaf2013-14-11-2013\64Bit\KwikScaf\x64\Debug\KwikScaf2013.lib" /MACHINE:X64 /DLL x64\Debug\KwikScaf2007.res
+         x64\Debug\acrxEntryPoint.obj
+         x64\Debug\AssignStageDialog.obj
+         x64\Debug\AutobuildDialog.obj
+         x64\Debug\AutobuildPropertiesToolbar.obj
+         x64\Debug\AutobuildPropertiesWnd.obj
+         x64\Debug\AutobuildToolbar.obj
+         x64\Debug\AutoBuildTools.obj
+         x64\Debug\Bay.obj
+         x64\Debug\BayDetailsDialog.obj
+         x64\Debug\BayPropertiesToolbar.obj
+         x64\Debug\BayPropToolbarWnd.obj
+         x64\Debug\BayStageLevel.obj
+         x64\Debug\BOMExtra.obj
+         x64\Debug\BOMSelectionDialog.obj
+         x64\Debug\BOMSummaryDialog.obj
+         x64\Debug\ChangeRLDlg.obj
+         x64\Debug\Component.obj
+         x64\Debug\ComponentDetails.obj
+         x64\Debug\ComponentEditor.obj
+         x64\Debug\componentList.obj
+         x64\Debug\ComponentPartNumberSelectorDlg.obj
+         x64\Debug\controller.obj
+         x64\Debug\CoolButton.obj
+         x64\Debug\DocData.obj
+         x64\Debug\doubleArray.obj
+         x64\Debug\EditStandardsDlg.obj
+         x64\Debug\Entity.obj
+         x64\Debug\EntityDebugger.obj
+         x64\Debug\EntityReactor.obj
+         x64\Debug\FontCombo.obj
+         x64\Debug\FreeTieTube.obj
+         x64\Debug\GraphicTypes.obj
+         x64\Debug\HelpAboutDlg.obj
+         x64\Debug\JobDescriptionInfo.obj
+         x64\Debug\JobDetailsDialog.obj
+         x64\Debug\Kwik3DPolygonMesh.obj
+         x64\Debug\KwikScaf2007.obj
+         x64\Debug\KwikScafButton.obj
+         x64\Debug\KwikScafColours.obj
+         x64\Debug\KwikScafComponentEditor.obj
+         x64\Debug\KwikscafDialog.obj
+         x64\Debug\KwikscafProgressDlg.obj
+         x64\Debug\LapboardBay.obj
+         x64\Debug\LevelList.obj
+         x64\Debug\Lift.obj
+         x64\Debug\LiftDetailsDialog.obj
+         x64\Debug\LiftList.obj
+         x64\Debug\Line.obj
+         x64\Debug\ListCtrlPrint.obj
+         x64\Debug\ListPrintPage1.obj
+         x64\Debug\ListPrintPage2.obj
+         x64\Debug\ListPrintSetup.obj
+         x64\Debug\Matrix.obj
+         x64\Debug\MatrixElement.obj
+         x64\Debug\MdiAware.obj
+         x64\Debug\MillsSystemBayEditor.obj
+         x64\Debug\ObjectPosition.obj
+         x64\Debug\PerRollDialog.obj
+         x64\Debug\PreviewTemplate.obj
+         x64\Debug\PrinterJob.obj
+         x64\Debug\PrintStatus.obj
+         x64\Debug\Run.obj
+         x64\Debug\RunPropDialog.obj
+         x64\Debug\ScaffoldArchive.obj
+         x64\Debug\SetStagesDlg.obj
+         x64\Debug\SHKInterface.obj
+         x64\Debug\ShowComponentTypeDialog.obj
+         x64\Debug\StageLevelShowHideDlg.obj
+         x64\Debug\StageLevelVisible.obj
+         x64\Debug\StandardHeightPickerDialog.obj
+         x64\Debug\StdAfx.obj
+         x64\Debug\StockListElement.obj
+         x64\Debug\SummaryElement.obj
+         x64\Debug\SummaryInfo.obj
+         x64\Debug\VisualComponents.obj
+            Creating library D:\2013\Projects\Kwikscaf\KwikScaf2013-14-11-2013\64Bit\KwikScaf\x64\Debug\KwikScaf2013.lib and object D:\2013\Projects\Kwikscaf\KwikScaf2013-14-11-2013\64Bit\KwikScaf\x64\Debug\KwikScaf2013.exp
+     1>rxapi.lib(libinit.obj) : warning LNK4099: PDB 'rxapi_cl.pdb' was not found with 'rxapi.lib(libinit.obj)' or at 'D:\2013\Projects\Kwikscaf\KwikScaf2013-14-11-2013\64Bit\KwikScaf\x64\Debug\rxapi_cl.pdb'; linking object as if no debug info
+         KwikScaf2007.vcxproj -> D:\2013\Projects\Kwikscaf\KwikScaf2013-14-11-2013\64Bit\KwikScaf\x64\Debug\KwikScaf2013.arx
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\KwikScaf2013.unsuccessfulbuild".
+         Touching "x64\Debug\KwikScaf2013.lastbuildstate".
+     1>Done Building Project "D:\2013\Projects\Kwikscaf\KwikScaf2013-14-11-2013\64Bit\KwikScaf\KwikScaf2007\KwikScaf2007.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:18.86

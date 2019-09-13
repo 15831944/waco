@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" Name="Demo Plugin" SymbolicName="DemoPlugin" Version="1.0.0.0" InitializedState="Active">
+  <Runtime>
+    <Assembly Path="bin\DemoPlugin.dll" Share="false" />
+    <Dependency BundleSymbolicName="UIShell.WpfShellPlugin" Resolution="Mandatory" />
+  </Runtime>
+  <Extension Point="UIShell.WpfShellPlugin.LinkGroups">
+    <LinkGroup DisplayName="Demo1" DefaultContentSource="DemoPlugin.Demo1">
+      <Link DisplayName="Menu11" Source="DemoPlugin.Demo1" />
+      <Link DisplayName="Menu12" Source="DemoPlugin.Demo2" />
+      <TabLink DisplayName="Tab11" DefaultContentSource="DemoPlugin.Demo3" Layout="List">
+        <Link DisplayName="Tab111" Source="DemoPlugin.Demo3" />
+        <Link DisplayName="Tab112" Source="DemoPlugin.Demo4" />
+      </TabLink>
+    </LinkGroup>
+    <LinkGroup DisplayName="Demo2" DefaultContentSource="DemoPlugin.Demo5">
+      <Link DisplayName="Menu21" Source="DemoPlugin.Demo5" />
+      <Link DisplayName="Menu22" Source="DemoPlugin.Demo6" />
+      <TabLink DisplayName="Tab21" DefaultContentSource="DemoPlugin.Demo7" Layout="Tab">
+        <Link DisplayName="Tab21" Source="DemoPlugin.Demo7" />
+        <Link DisplayName="Tab22" Source="DemoPlugin.Demo8" />
+      </TabLink>
+    </LinkGroup>
+  </Extension>
+</Bundle>

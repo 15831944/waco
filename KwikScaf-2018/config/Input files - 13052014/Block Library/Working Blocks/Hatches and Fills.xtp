@@ -1,0 +1,401 @@
+<ToolPaletteExport><DependentFilesPath>Hatches and Fills</DependentFilesPath><PaletteSets><PaletteSetData><PaletteSetContent><Palettes><PaletteData><PaletteContent><Palette option="0"><ItemID idValue="{3D96B628-B9A6-4BE7-9A54-4063288C5CE6}"/><Properties><ItemName resource="186" src="AcTpCatalogRes.dll"/><Images option="0"/></Properties><Source/><Tools><Tool option="0"><ItemID idValue="{E73EDC14-E05E-4E8F-8CC8-AC105F6CB9DE}"/><Properties><ItemName resource="197" src="AcTpCatalogRes.dll"/><Images option="0"/><Time createdUniversalDateTime="2004-12-14T03:10:37" modifiedUniversalDateTime="2004-12-14T03:10:37"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+									</Tool><Tool option="0"><ItemID idValue="{AECA11A0-0E25-4BE5-BE9C-F1962C04AD0A}"/><Properties><ItemName resource="144" src="AcTpCatalogRes.dll"/><Images option="0"><Image cx="32" cy="32" resource="IDB_BITMAP_32_ISO_SOLID_SIMPLE" src="AcTpCatalogRes.dll"/></Images><Time createdUniversalDateTime="2011-10-18T04:07:53" modifiedUniversalDateTime="2011-10-18T04:07:53"/></Properties><Source idValue="{59A63456-0025-4EA0-9CB2-608916D5177C}"/><ToolType>1</ToolType><StockToolRef idValue="{AF0F641B-9CCE-4474-8582-EFE0A38410FC}"/><Data>
+											<GeneralProperties>
+												<Color>
+													<BasicPropInfo>
+														<PropValue unspecified="FALSE" valueType="2" value="0"/>
+													</BasicPropInfo>
+													<CreateInfo>
+														<AcCmColor mRGB="3221225472"/>
+													</CreateInfo>
+												</Color>
+												<Layer>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</Layer>
+												<Linetype>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</Linetype>
+												<LinetypeScale>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="3" value="1"/>
+													</BasicPropInfo>
+												</LinetypeScale>
+												<PlotStyle>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</PlotStyle>
+												<LineWeight>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="2" value="0"/>
+													</BasicPropInfo>
+												</LineWeight>
+											</GeneralProperties>
+											<Hatch>
+												<HatchType>1</HatchType>
+												<PatternName>SOLID</PatternName>
+												<SourceFile>%ProgramName%iso.pat</SourceFile>
+												<Angle>0</Angle>
+												<Scale>1</Scale>
+												<Spacing>1</Spacing>
+												<PenWidth>100</PenWidth>
+												<Double>0</Double>
+												<BlockExtent>0.5</BlockExtent>
+											</Hatch>
+										</Data>
+									</Tool><Tool option="0"><ItemID idValue="{22EB13C8-7767-4414-A7D8-A60C55669378}"/><Properties><ItemName>Concrete</ItemName><Images option="0"><Image cx="32" cy="32" src="Images\Solid32.PNG"/><Image cx="64" cy="64" src="Images\Solid64.PNG"/></Images><Time createdUniversalDateTime="2011-10-18T04:07:53" modifiedUniversalDateTime="2011-10-26T09:50:58"/></Properties><Source idValue="{59A63456-0025-4EA0-9CB2-608916D5177C}"/><ToolType>1</ToolType><StockToolRef idValue="{AF0F641B-9CCE-4474-8582-EFE0A38410FC}"/><Data>
+											<GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="0"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="TRUE" valueType="3" value="0"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="TRUE" valueType="2" value="0"/></BasicPropInfo></LineWeight><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Hatch hatchObjectType="0"><HatchType>1</HatchType><PatternName>AR-CONC</PatternName><SourceFile>acadiso.pat</SourceFile><Angle>0</Angle><Scale>2</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Spacing>2</Spacing><PenWidth>100</PenWidth><Double>0</Double><BlockExtent>62</BlockExtent><GradientAngle>0</GradientAngle><GradientCentered>1</GradientCentered><GradientName>LINEAR</GradientName></Hatch></Data>
+									</Tool><Tool option="0"><ItemID idValue="{3EA035EA-092C-4E43-B63B-2235CD662F65}"/><Properties><ItemName>Brick Wall</ItemName><Images option="0"><Image cx="32" cy="32" src="Images\Brick32.PNG"/><Image cx="64" cy="64" src="Images\Brick64.PNG"/></Images><Time createdUniversalDateTime="2011-10-18T04:07:53" modifiedUniversalDateTime="2011-10-26T09:55:34"/></Properties><Source idValue="{59A63456-0025-4EA0-9CB2-608916D5177C}"/><ToolType>1</ToolType><StockToolRef idValue="{AF0F641B-9CCE-4474-8582-EFE0A38410FC}"/><Data>
+											<GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="0"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="TRUE" valueType="3" value="0"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="TRUE" valueType="2" value="0"/></BasicPropInfo></LineWeight><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Hatch hatchObjectType="0"><HatchType>1</HatchType><PatternName>JIS_LC_20A</PatternName><SourceFile>acadiso.pat</SourceFile><Angle>1.570796326794897</Angle><Scale>15</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Spacing>15</Spacing><PenWidth>100</PenWidth><Double>0</Double><BlockExtent>31</BlockExtent><GradientAngle>0</GradientAngle><GradientCentered>1</GradientCentered><GradientName>LINEAR</GradientName></Hatch></Data>
+									</Tool><Tool option="0"><ItemID idValue="{A198697C-434B-47B6-B3C0-AD804E9C486E}"/><Properties><ItemName>Shade</ItemName><Images option="0"><Image cx="32" cy="32" src=".\Images\Hatch tool_A198697C-434B-47B6-B3C0-AD804E9C486E.PNG"/><Image cx="64" cy="64" src=".\Images\Hatch tool_A198697C-434B-47B6-B3C0-AD804E9C486E_2.PNG"/></Images><Time createdUniversalDateTime="2011-10-18T04:07:53" modifiedUniversalDateTime="2011-10-26T09:54:35"/></Properties><Source idValue="{59A63456-0025-4EA0-9CB2-608916D5177C}"/><ToolType>1</ToolType><StockToolRef idValue="{AF0F641B-9CCE-4474-8582-EFE0A38410FC}"/><Data>
+											<GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="0"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3271557126"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="TRUE" valueType="3" value="0"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="TRUE" valueType="2" value="0"/></BasicPropInfo></LineWeight><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Hatch hatchObjectType="0"><HatchType>1</HatchType><PatternName>DOTS</PatternName><SourceFile>acadiso.pat</SourceFile><Angle>0</Angle><Scale>70</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Spacing>70</Spacing><PenWidth>100</PenWidth><Double>0</Double><BlockExtent>3.5</BlockExtent><GradientAngle>0</GradientAngle><GradientCentered>1</GradientCentered><GradientName>LINEAR</GradientName></Hatch></Data>
+									</Tool><Tool option="0"><ItemID idValue="{C2AA9289-EF0F-49F7-B592-84AE20E5078C}"/><Properties><ItemName>Earth</ItemName><Images option="0"><Image cx="32" cy="32" src=".\Images\Hatch tool_C2AA9289-EF0F-49F7-B592-84AE20E5078C.PNG"/><Image cx="64" cy="64" src=".\Images\Hatch tool_C2AA9289-EF0F-49F7-B592-84AE20E5078C_2.PNG"/></Images><Time createdUniversalDateTime="2011-10-18T04:07:53" modifiedUniversalDateTime="2011-10-26T09:57:27"/></Properties><Source idValue="{59A63456-0025-4EA0-9CB2-608916D5177C}"/><ToolType>1</ToolType><StockToolRef idValue="{AF0F641B-9CCE-4474-8582-EFE0A38410FC}"/><Data>
+											<GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="0"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="TRUE" valueType="3" value="0"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="TRUE" valueType="2" value="0"/></BasicPropInfo></LineWeight><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Hatch hatchObjectType="0"><HatchType>1</HatchType><PatternName>EARTH</PatternName><SourceFile>acadiso.pat</SourceFile><Angle>0</Angle><Scale>20</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Spacing>20</Spacing><PenWidth>100</PenWidth><Double>0</Double><BlockExtent>6.5</BlockExtent><GradientAngle>0</GradientAngle><GradientCentered>1</GradientCentered><GradientName>LINEAR</GradientName></Hatch></Data>
+									</Tool><Tool option="0"><ItemID idValue="{E42712E5-BE9E-4CDF-84F4-F7518BA74D6E}"/><Properties><ItemName>Gravel</ItemName><Images option="0"><Image cx="32" cy="32" src=".\Images\Hatch tool_E42712E5-BE9E-4CDF-84F4-F7518BA74D6E.PNG"/><Image cx="64" cy="64" src=".\Images\Hatch tool_E42712E5-BE9E-4CDF-84F4-F7518BA74D6E_2.PNG"/></Images><Time createdUniversalDateTime="2011-10-18T04:07:53" modifiedUniversalDateTime="2011-10-26T09:58:12"/></Properties><Source idValue="{59A63456-0025-4EA0-9CB2-608916D5177C}"/><ToolType>1</ToolType><StockToolRef idValue="{AF0F641B-9CCE-4474-8582-EFE0A38410FC}"/><Data>
+											<GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="0"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="TRUE" valueType="3" value="0"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="TRUE" valueType="2" value="0"/></BasicPropInfo></LineWeight><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Hatch hatchObjectType="0"><HatchType>1</HatchType><PatternName>GRAVEL</PatternName><SourceFile>acadiso.pat</SourceFile><Angle>0</Angle><Scale>20</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Spacing>20</Spacing><PenWidth>100</PenWidth><Double>0</Double><BlockExtent>6.5</BlockExtent><GradientAngle>0</GradientAngle><GradientCentered>1</GradientCentered><GradientName>LINEAR</GradientName></Hatch></Data>
+									</Tool><Tool option="0"><ItemID idValue="{954E2EB6-3CC8-4B6A-BFDA-4CD1C04F184A}"/><Properties><ItemName>Hound</ItemName><Images option="0"><Image cx="32" cy="32" resource="IDB_BITMAP_32_ISO_HOUND" src="AcTpCatalogRes.dll"/></Images><Time createdUniversalDateTime="2011-10-18T04:07:53" modifiedUniversalDateTime="2011-10-26T09:58:47"/></Properties><Source idValue="{59A63456-0025-4EA0-9CB2-608916D5177C}"/><ToolType>1</ToolType><StockToolRef idValue="{AF0F641B-9CCE-4474-8582-EFE0A38410FC}"/><Data>
+											<GeneralProperties><Color><BasicPropInfo><PropValue unspecified="FALSE" valueType="2" value="0"/></BasicPropInfo><CreateInfo><AcCmColor mRGB="3221225472"/></CreateInfo></Color><Layer><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Layer><Linetype><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Linetype><LinetypeScale><BasicPropInfo><PropValue unspecified="TRUE" valueType="3" value="0"/></BasicPropInfo></LinetypeScale><PlotStyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></PlotStyle><LineWeight><BasicPropInfo><PropValue unspecified="TRUE" valueType="2" value="0"/></BasicPropInfo></LineWeight><Textstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Textstyle><Dimstyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Dimstyle><Tablestyle><BasicPropInfo><PropValue unspecified="TRUE" valueType="1"/></BasicPropInfo></Tablestyle></GeneralProperties><Hatch hatchObjectType="0"><HatchType>1</HatchType><PatternName>HOUND</PatternName><SourceFile>acadiso.pat</SourceFile><Angle>0</Angle><Scale>50</Scale><AuxiliaryScale>NONE</AuxiliaryScale><Spacing>50</Spacing><PenWidth>100</PenWidth><Double>0</Double><BlockExtent>0.5</BlockExtent><GradientAngle>0</GradientAngle><GradientCentered>1</GradientCentered><GradientName>LINEAR</GradientName></Hatch></Data>
+									</Tool><Tool option="0"><ItemID idValue="{4786C282-5C5F-469D-95EE-A33A3A6CBB4D}"/><Properties><ItemName resource="152" src="AcTpCatalogRes.dll"/><Images option="0"><Image cx="32" cy="32" resource="IDB_BITMAP_32_ISO_SOLID_RGB108_7_7" src="AcTpCatalogRes.dll"/></Images><Time createdUniversalDateTime="2011-10-18T04:07:53" modifiedUniversalDateTime="2011-10-18T04:07:53"/></Properties><Source idValue="{59A63456-0025-4EA0-9CB2-608916D5177C}"/><ToolType>1</ToolType><StockToolRef idValue="{AF0F641B-9CCE-4474-8582-EFE0A38410FC}"/><Data>
+											<GeneralProperties>
+												<Color>
+													<BasicPropInfo>
+														<PropValue unspecified="FALSE" valueType="2" value="0"/>
+													</BasicPropInfo>
+													<CreateInfo>
+														<AcCmColor mRGB="3261859591"/>
+													</CreateInfo>
+												</Color>
+												<Layer>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</Layer>
+												<Linetype>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</Linetype>
+												<LinetypeScale>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="3" value="0"/>
+													</BasicPropInfo>
+												</LinetypeScale>
+												<PlotStyle>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</PlotStyle>
+												<LineWeight>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="2" value="0"/>
+													</BasicPropInfo>
+												</LineWeight>
+											</GeneralProperties>
+											<Hatch>
+												<HatchType>1</HatchType>
+												<PatternName>SOLID</PatternName>
+												<SourceFile>%ProgramName%iso.pat</SourceFile>
+												<Angle>0</Angle>
+												<Scale>1</Scale>
+												<Spacing>1</Spacing>
+												<PenWidth>100</PenWidth>
+												<Double>0</Double>
+												<BlockExtent>0.5</BlockExtent>
+											</Hatch>
+										</Data>
+									</Tool><Tool option="0"><ItemID idValue="{9D2EAA23-478E-4915-BE8C-EDEFFB051FA5}"/><Properties><ItemName resource="154" src="AcTpCatalogRes.dll"/><Images option="0"><Image cx="32" cy="32" resource="IDB_BITMAP_32_ISO_SOLID_RGB247_148_29" src="AcTpCatalogRes.dll"/></Images><Time createdUniversalDateTime="2011-10-18T04:07:53" modifiedUniversalDateTime="2011-10-18T04:07:53"/></Properties><Source idValue="{59A63456-0025-4EA0-9CB2-608916D5177C}"/><ToolType>1</ToolType><StockToolRef idValue="{AF0F641B-9CCE-4474-8582-EFE0A38410FC}"/><Data>
+											<GeneralProperties>
+												<Color>
+													<BasicPropInfo>
+														<PropValue unspecified="FALSE" valueType="2" value="0"/>
+													</BasicPropInfo>
+													<CreateInfo>
+														<AcCmColor mRGB="3271005213"/>
+													</CreateInfo>
+												</Color>
+												<Layer>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</Layer>
+												<Linetype>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</Linetype>
+												<LinetypeScale>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="3" value="0"/>
+													</BasicPropInfo>
+												</LinetypeScale>
+												<PlotStyle>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</PlotStyle>
+												<LineWeight>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="2" value="0"/>
+													</BasicPropInfo>
+												</LineWeight>
+											</GeneralProperties>
+											<Hatch>
+												<HatchType>1</HatchType>
+												<PatternName>SOLID</PatternName>
+												<SourceFile>%ProgramName%iso.pat</SourceFile>
+												<Angle>0</Angle>
+												<Scale>1</Scale>
+												<Spacing>1</Spacing>
+												<PenWidth>100</PenWidth>
+												<Double>0</Double>
+												<BlockExtent>0.5</BlockExtent>
+											</Hatch>
+										</Data>
+									</Tool><Tool option="0"><ItemID idValue="{B94D399D-BB40-4525-8B1D-2798E927D78B}"/><Properties><ItemName resource="158" src="AcTpCatalogRes.dll"/><Images option="0"><Image cx="32" cy="32" resource="IDB_BITMAP_32_ISO_SOLID_ACI96" src="AcTpCatalogRes.dll"/></Images><Time createdUniversalDateTime="2011-10-18T04:07:53" modifiedUniversalDateTime="2011-10-18T04:07:53"/></Properties><Source idValue="{59A63456-0025-4EA0-9CB2-608916D5177C}"/><ToolType>1</ToolType><StockToolRef idValue="{AF0F641B-9CCE-4474-8582-EFE0A38410FC}"/><Data>
+											<GeneralProperties>
+												<Color>
+													<BasicPropInfo>
+														<PropValue unspecified="FALSE" valueType="2" value="0"/>
+													</BasicPropInfo>
+													<CreateInfo>
+														<AcCmColor mRGB="3271557216"/>
+													</CreateInfo>
+												</Color>
+												<Layer>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</Layer>
+												<Linetype>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</Linetype>
+												<LinetypeScale>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="3" value="0"/>
+													</BasicPropInfo>
+												</LinetypeScale>
+												<PlotStyle>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</PlotStyle>
+												<LineWeight>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="2" value="0"/>
+													</BasicPropInfo>
+												</LineWeight>
+											</GeneralProperties>
+											<Hatch>
+												<HatchType>1</HatchType>
+												<PatternName>SOLID</PatternName>
+												<SourceFile>%ProgramName%iso.pat</SourceFile>
+												<Angle>0</Angle>
+												<Scale>1</Scale>
+												<Spacing>1</Spacing>
+												<PenWidth>100</PenWidth>
+												<Double>0</Double>
+												<BlockExtent>0.5</BlockExtent>
+											</Hatch>
+										</Data>
+									</Tool><Tool option="0"><ItemID idValue="{C24D92B0-8F65-4BF6-9167-0E4BBD45CB0A}"/><Properties><ItemName resource="159" src="AcTpCatalogRes.dll"/><Images option="0"><Image cx="32" cy="32" resource="IDB_BITMAP_32_ISO_SOLID_ACI50" src="AcTpCatalogRes.dll"/></Images><Time createdUniversalDateTime="2011-10-18T04:07:53" modifiedUniversalDateTime="2011-10-18T04:07:53"/></Properties><Source idValue="{59A63456-0025-4EA0-9CB2-608916D5177C}"/><ToolType>1</ToolType><StockToolRef idValue="{AF0F641B-9CCE-4474-8582-EFE0A38410FC}"/><Data>
+											<GeneralProperties>
+												<Color>
+													<BasicPropInfo>
+														<PropValue unspecified="FALSE" valueType="2" value="0"/>
+													</BasicPropInfo>
+													<CreateInfo>
+														<AcCmColor mRGB="3271557170"/>
+													</CreateInfo>
+												</Color>
+												<Layer>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</Layer>
+												<Linetype>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</Linetype>
+												<LinetypeScale>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="3" value="0"/>
+													</BasicPropInfo>
+												</LinetypeScale>
+												<PlotStyle>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</PlotStyle>
+												<LineWeight>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="2" value="0"/>
+													</BasicPropInfo>
+												</LineWeight>
+											</GeneralProperties>
+											<Hatch>
+												<HatchType>1</HatchType>
+												<PatternName>SOLID</PatternName>
+												<SourceFile>%ProgramName%iso.pat</SourceFile>
+												<Angle>0</Angle>
+												<Scale>1</Scale>
+												<Spacing>1</Spacing>
+												<PenWidth>100</PenWidth>
+												<Double>0</Double>
+												<BlockExtent>0.5</BlockExtent>
+											</Hatch>
+										</Data>
+									</Tool><Tool option="0"><ItemID idValue="{E6B28356-8ECA-428D-BAAD-911EADA08425}"/><Properties><ItemName resource="298" src="AcTpCatalogRes.dll"/><Images option="0"/><Time createdUniversalDateTime="2004-12-14T03:10:37" modifiedUniversalDateTime="2004-12-14T03:10:37"/></Properties><Source/><ToolType>3</ToolType><StockToolRef/><Data/>
+									</Tool><Tool option="0"><ItemID idValue="{5D83A1D5-7370-42EA-AE04-CEFEADFE8CD7}"/><Properties><ItemName resource="270" src="AcTpCatalogRes.dll"/><Images option="0"><Image cx="32" cy="32" resource="IDB_BITMAP_32_GRADIENT_CURVED" src="AcTpCatalogRes.dll"/></Images><Description resource="271" src="AcTpCatalogRes.dll"/><Time createdUniversalDateTime="2003-03-14T22:24:30" modifiedUniversalDateTime="2003-06-19T17:06:00"/></Properties><Source idValue="{59A63456-0025-4EA0-9CB2-608916D5177C}"/><ToolType>1</ToolType><StockToolRef idValue="{AF0F641B-9CCE-4474-8582-EFE0A38410FC}"/><Data>
+											<GeneralProperties>
+												<Color>
+													<BasicPropInfo>
+														<PropValue unspecified="FALSE" valueType="2" value="0"/>
+													</BasicPropInfo>
+													<CreateInfo>
+														<AcCmColor mRGB="3221225472"/>
+													</CreateInfo>
+												</Color>
+												<Layer>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</Layer>
+												<Linetype>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</Linetype>
+												<LinetypeScale>
+													<BasicPropInfo>
+														<PropValue unspecified="FALSE" valueType="3" value="1"/>
+													</BasicPropInfo>
+												</LinetypeScale>
+												<PlotStyle>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</PlotStyle>
+												<LineWeight>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="2" value="-1"/>
+													</BasicPropInfo>
+												</LineWeight>
+											</GeneralProperties>
+											<Hatch hatchObjectType="1">
+												<HatchType>1</HatchType>
+												<PatternName/>
+												<Angle>0</Angle>
+												<Scale>1</Scale>
+												<AuxiliaryScale>NONE</AuxiliaryScale>
+												<Spacing>1</Spacing>
+												<PenWidth>100</PenWidth>
+												<Double>0</Double>
+												<BlockExtent>0.5</BlockExtent>
+												<GradientColors>
+													<GradientColor>
+														<Color>
+															<BasicPropInfo>
+																<PropValue unspecified="FALSE"/>
+															</BasicPropInfo>
+															<CreateInfo>
+																<AcCmColor mRGB="3254780159"/>
+															</CreateInfo>
+														</Color>
+													</GradientColor>
+													<GradientColor>
+														<Color>
+															<BasicPropInfo>
+																<PropValue unspecified="FALSE"/>
+															</BasicPropInfo>
+															<CreateInfo>
+																<AcCmColor mRGB="3271557119"/>
+															</CreateInfo>
+														</Color>
+													</GradientColor>
+												</GradientColors>
+												<GradientAngle>0</GradientAngle>
+												<GradientCentered>1</GradientCentered>
+												<GradientName>CURVED</GradientName>
+											</Hatch>
+										</Data>
+									</Tool><Tool option="0"><ItemID idValue="{D7487C4B-3A60-4BBB-A0CA-3064526D1560}"/><Properties><ItemName resource="272" src="AcTpCatalogRes.dll"/><Images option="0"><Image cx="32" cy="32" resource="IDB_BITMAP_32_GRADIENT_HEMISPHERICAL" src="AcTpCatalogRes.dll"/></Images><Description resource="273" src="AcTpCatalogRes.dll"/><Time createdUniversalDateTime="2003-03-14T22:24:30" modifiedUniversalDateTime="2003-06-19T17:06:14"/></Properties><Source idValue="{59A63456-0025-4EA0-9CB2-608916D5177C}"/><ToolType>1</ToolType><StockToolRef idValue="{AF0F641B-9CCE-4474-8582-EFE0A38410FC}"/><Data>
+											<GeneralProperties>
+												<Color>
+													<BasicPropInfo>
+														<PropValue unspecified="FALSE" valueType="2" value="0"/>
+													</BasicPropInfo>
+													<CreateInfo>
+														<AcCmColor mRGB="3221225472"/>
+													</CreateInfo>
+												</Color>
+												<Layer>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</Layer>
+												<Linetype>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</Linetype>
+												<LinetypeScale>
+													<BasicPropInfo>
+														<PropValue unspecified="FALSE" valueType="3" value="1"/>
+													</BasicPropInfo>
+												</LinetypeScale>
+												<PlotStyle>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="1"/>
+													</BasicPropInfo>
+												</PlotStyle>
+												<LineWeight>
+													<BasicPropInfo>
+														<PropValue unspecified="TRUE" valueType="2" value="-1"/>
+													</BasicPropInfo>
+												</LineWeight>
+											</GeneralProperties>
+											<Hatch hatchObjectType="1">
+												<HatchType>1</HatchType>
+												<PatternName/>
+												<Angle>0</Angle>
+												<Scale>1</Scale>
+												<AuxiliaryScale>NONE</AuxiliaryScale>
+												<Spacing>1</Spacing>
+												<PenWidth>100</PenWidth>
+												<Double>0</Double>
+												<BlockExtent>0.5</BlockExtent>
+												<GradientColors>
+													<GradientColor>
+														<Color>
+															<BasicPropInfo>
+																<PropValue unspecified="FALSE"/>
+															</BasicPropInfo>
+															<CreateInfo>
+																<AcCmColor mRGB="3254780159"/>
+															</CreateInfo>
+														</Color>
+													</GradientColor>
+													<GradientColor>
+														<Color>
+															<BasicPropInfo>
+																<PropValue unspecified="FALSE"/>
+															</BasicPropInfo>
+															<CreateInfo>
+																<AcCmColor mRGB="3271557119"/>
+															</CreateInfo>
+														</Color>
+													</GradientColor>
+												</GradientColors>
+												<GradientAngle>0</GradientAngle>
+												<GradientCentered>1</GradientCentered>
+												<GradientName>HEMISPHERICAL</GradientName>
+											</Hatch>
+										</Data>
+									</Tool></Tools></Palette></PaletteContent><PaletteUI><CAdUiPalette PaletteStyle="1"/><CAcTcUiToolPalette><CatalogView ID="{3D96B628-B9A6-4BE7-9A54-4063288C5CE6}"><ToolSource><Palette ID="{3D96B628-B9A6-4BE7-9A54-4063288C5CE6}">Hatches and Fills</Palette></ToolSource><Image SizeCX="32" SizeCY="32"/><Style>460800</Style><ToolOrder><Tool ID="{E73EDC14-E05E-4E8F-8CC8-AC105F6CB9DE}"/><Tool ID="{AECA11A0-0E25-4BE5-BE9C-F1962C04AD0A}"/><Tool ID="{22EB13C8-7767-4414-A7D8-A60C55669378}"/><Tool ID="{3EA035EA-092C-4E43-B63B-2235CD662F65}"/><Tool ID="{A198697C-434B-47B6-B3C0-AD804E9C486E}"/><Tool ID="{C2AA9289-EF0F-49F7-B592-84AE20E5078C}"/><Tool ID="{E42712E5-BE9E-4CDF-84F4-F7518BA74D6E}"/><Tool ID="{954E2EB6-3CC8-4B6A-BFDA-4CD1C04F184A}"/><Tool ID="{4786C282-5C5F-469D-95EE-A33A3A6CBB4D}"/><Tool ID="{9D2EAA23-478E-4915-BE8C-EDEFFB051FA5}"/><Tool ID="{B94D399D-BB40-4525-8B1D-2798E927D78B}"/><Tool ID="{C24D92B0-8F65-4BF6-9167-0E4BBD45CB0A}"/><Tool ID="{E6B28356-8ECA-428D-BAAD-911EADA08425}"/><Tool ID="{5D83A1D5-7370-42EA-AE04-CEFEADFE8CD7}"/><Tool ID="{D7487C4B-3A60-4BBB-A0CA-3064526D1560}"/></ToolOrder></CatalogView></CAcTcUiToolPalette></PaletteUI></PaletteData></Palettes></PaletteSetContent><PaletteSetUI><CAdUiDockControlBar Orientation="-1" AllowDocking="1"><FloatInfo Left="502" Top="214" Width="172" Height="598"/><DockInfo Left="25920" Top="712" Width="172" Height="368" MRUDockID="59421"/></CAdUiDockControlBar><CAdUiPaletteSet ActivePaletteIndex="1" TitleBarLocation="1" AutoRollup="0" Name="TOOL PALETTES - ALL PALETTES" Style="126" Opacity="100" Visible="1"/></PaletteSetUI></PaletteSetData></PaletteSets></ToolPaletteExport>

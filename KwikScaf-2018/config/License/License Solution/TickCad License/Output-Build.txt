@@ -1,0 +1,11 @@
+﻿------ Skipped Clean: Project: CTBIM_CAD_MODRENUI, Configuration: Debug Any CPU ------
+Project not selected to build for this solution configuration 
+------ Skipped Clean: Project: UIShell.iOpenWorks.WPF, Configuration: Debug Any CPU ------
+Project not selected to build for this solution configuration 
+------ Skipped Clean: Project: UIShell.WpfShellPlugin, Configuration: Debug Any CPU ------
+Project not selected to build for this solution configuration 
+------ Skipped Clean: Project: UIShell.WpfAppCenterPlugin, Configuration: Debug Any CPU ------
+Project not selected to build for this solution configuration 
+------ Skipped Clean: Project: FirstFloor.ModernUI, Configuration: Debug Any CPU ------
+Project not selected to build for this solution configuration 
+========== Clean: 0 succeeded, 0 failed, 5 skipped ==========

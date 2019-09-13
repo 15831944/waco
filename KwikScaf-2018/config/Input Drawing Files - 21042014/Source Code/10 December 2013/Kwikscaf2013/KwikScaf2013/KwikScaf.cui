@@ -1,0 +1,2513 @@
+<?xml version="1.0"?>
+<!--
+Warning! Do not edit the contents of this file.
+If you attempt to edit this file using an XML editor, you could lose customization and migration functionality.
+If you need to change information in the customization file, use the Customize User Interface dialog box in the product.
+To access the Customize User Interface dialog box, click the Tools menu > Customize > Interface, or enter CUI on the command line. 
+-->
+<CustSection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileVersion MajorVersion="0" MinorVersion="4" IncrementalVersion="1" UserVersion="1" />
+  <Header>
+    <CommonConfiguration>
+      <CommonItems>
+        <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+      </CommonItems>
+    </CommonConfiguration>
+    <WorkspaceRoot>
+      <WorkspaceConfigRoot />
+    </WorkspaceRoot>
+  </Header>
+  <MenuGroup Name="KWIKSCAF">
+    <MacroGroup Name="KwikScafMacros">
+      <MenuMacro UID="ID_MnLdTool">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0002">Load KwikScaf© Toolbar</Name>
+          <Command>^C^C-toolbar;KwikSCaf.TB_KwikScaf;; </Command>
+          <HelpString xlate="true" UID="XLS_0352">Displays the KwikScaf© toolbar on screen.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_KwikStag">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0005">Use KwikStage System</Name>
+          <Command>^C^CUseKwikStage; </Command>
+          <HelpString xlate="true" UID="XLS_0294">Set KwikScaf© to use KwikStage components.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_Millssys">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0007">Use Mills Systems</Name>
+          <Command>^C^CUseMills; </Command>
+          <HelpString xlate="true" UID="XLS_0295">Set KwikScaf© to use MillSystem components.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnMilSysC">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0009">Use Mills System Corners</Name>
+          <Command>^C^CMillsSystemCnr;1 </Command>
+          <HelpString xlate="true" UID="XLS_0354">Sets the schematic to be drawn using a Mills System style corner.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnNormC">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0011">Use Normal Corners</Name>
+          <Command>^C^CMillsSystemCnr;0 </Command>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnWire">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0013">Use Wirefram Components</Name>
+          <Command>^C^Cfacetres;0.05;dispsilh;1;UseActualComps;0; </Command>
+          <HelpString xlate="true" UID="XLS_0379">Uses where from components when the 3D and Matrix are being built.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnAMat">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0015">Use Actual Matrix Components</Name>
+          <Command>^C^Cfacetres;0.05;dispsilh;1;UseActualComps;1; </Command>
+          <HelpString xlate="true" UID="XLS_0312">Uses actual components only when the Matrix is being built.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnA3D">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0017">Use Actual 3D Components</Name>
+          <Command>^C^Cfacetres;0.05;dispsilh;1;UseActualComps;2; </Command>
+          <HelpString xlate="true" UID="XLS_0297">Uses actual components only when the 3D is being built.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnComp">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0019">Use Actual Components for Matrix and 3D</Name>
+          <Command>^C^Cfacetres;0.05;dispsilh;1;UseActualComps;3; </Command>
+          <HelpString xlate="true" UID="XLS_0319">Uses actual components when the 3D and Matrix are being built.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnSydCrn">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0021">Use Sydney Corners</Name>
+          <Command>^C^CSydneyCnr;1; </Command>
+          <HelpString xlate="true" UID="XLS_0374">Use Sydney corners as the default corner style.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnSydSep">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0023">Set Sydney Corners Offset</Name>
+          <Command>^C^CSydneyCnrSeparation; </Command>
+          <HelpString xlate="true" UID="XLS_0375">Set the separation between runs for Sydney Corner style.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnSydCNo">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0025">Don't Use Sydney Corners</Name>
+          <Command>^C^CSydneyCnr;0; </Command>
+          <HelpString xlate="true" UID="XLS_0373">Turn Sydney Corner style off.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnPerRol">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0027">Shade and Chain per roll...</Name>
+          <Command>^C^CCalcPerRoll; </Command>
+          <HelpString xlate="true" UID="XLS_0372">Shade Cloth and Chain Mesh calculations per roll or by area.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnUPLC">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0029">Use Putlog Clips</Name>
+          <Command>^C^CUsePutlogClipsInLadder;1; </Command>
+          <HelpString xlate="true" UID="XLS_0377">User Putlog clips on laddber bays.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnDUPLC">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0031">Don't Use Putlog Clips</Name>
+          <Command>^C^CUsePutlogClipsInLadder;0; </Command>
+          <HelpString xlate="true" UID="XLS_0326">Don't use Putlog clips on ladder towere. Wire to be used on site.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnU15SB">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0033">Use 1.5m Sole Boards</Name>
+          <Command>^C^CUse1500SoleBoards;1; </Command>
+          <HelpString xlate="true" UID="XLS_0376">Use 1.5m sole boards were posible. User regular sole boards where not posible.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnDU15SB">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0035">Use Regular Sole Boards</Name>
+          <Command>^C^CUse1500SoleBoards;0; </Command>
+          <HelpString xlate="true" UID="XLS_0325">Don't use 1.5 metre sole boards anywhere.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnCBSL">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0037">Dispaly 3D as colour</Name>
+          <Command />
+          <HelpString xlate="true" UID="XLS_0317">Set the colour of the 3D to be assigned by stage and delivery.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_SMSLOS">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0039">Show Matrix Section Label on Schematic</Name>
+          <Command>^C^CSMSLOS;1; </Command>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_DSMSLOS">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0041">Hide Matrix Section Label on Schematic</Name>
+          <Command>^C^CSMSLOS;0; </Command>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnBOM">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0043">Create BOM CSV</Name>
+          <Command>^C^CBOM; </Command>
+          <HelpString xlate="true" UID="XLS_0314">Generate a BOM in a CSV file.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnCSVRes">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0045">Reset ComponentDetails.CSV file</Name>
+          <Command>^C^CCCDFN; </Command>
+          <HelpString xlate="true" UID="XLS_0321">Resets the  file that is used for the Component Details.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnCSDFN">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0047">Reset Stock.CSV system veriable</Name>
+          <Command>^C^CCSDFN; </Command>
+          <HelpString xlate="true" UID="XLS_0320">Resets the  file that is used for the Stock codes.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnEditSto">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0049">Edit Available Stock...</Name>
+          <Command>^C^CEditStock; </Command>
+          <HelpString xlate="true" UID="XLS_0333">Change details or add a new stock item.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnRsDlg">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0051">Reset Dialogue Positions</Name>
+          <Command>^C^C(if (not DlgRest) (load "KwikScaf.lsp"));DlgReset; </Command>
+          <HelpString xlate="true" UID="XLS_0368">Resets all KwikScaf© dialogue boxes to their original location.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnJobDet">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0053">Job Details...</Name>
+          <Command>^C^CJobDetail; </Command>
+          <HelpString xlate="true" UID="XLS_0343">Displays Job Details dialogue box for current drawing.</HelpString>
+          <SmallImage Name="JobDetails16" />
+          <LargeImage Name="JobDetails24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnAutoBu">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0055">AutoBuild</Name>
+          <Command>^C^CAutoBuild; </Command>
+          <HelpString xlate="true" UID="XLS_0313">Start the AutoBuild command to generate scaffold runs.</HelpString>
+          <SmallImage Name="AutoBuild16" />
+          <LargeImage Name="AutoBuild24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnABWall">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0058">AutoBuild Wall</Name>
+          <Command>^C^CAutoBuild;\\; </Command>
+          <HelpString xlate="true" UID="XLS_0301">AutoBuild to generate a single scaffold runs.</HelpString>
+          <SmallImage Name="ABWall16" />
+          <LargeImage Name="ABWall24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnABArc">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0060">AutoBuild Arc</Name>
+          <Command>^C^CAutobuild;\A;\\; </Command>
+          <HelpString xlate="true" UID="XLS_0298">AutoBuild to generate a single scaffold arc.</HelpString>
+          <SmallImage Name="ABArc16" />
+          <LargeImage Name="ABArc24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnABBird">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0062">Autobuild Birdcage</Name>
+          <Command>^C^CAutoBuild;\\B;\; </Command>
+          <HelpString xlate="true" UID="XLS_0299">AutoBuild a Birdcage only.</HelpString>
+          <SmallImage Name="ABBCage16" />
+          <LargeImage Name="ABBCage24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnReSzBa">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0064">Resize Bay</Name>
+          <Command>ResizeBay; </Command>
+          <HelpString xlate="true" UID="XLS_0365">Resizes the  length and width of a selection of bays.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnEditStd">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0067">Edit Standards ...</Name>
+          <Command>EditStandards; </Command>
+          <HelpString xlate="true" UID="XLS_0332">Edit standards configuration using Standard Configuration dialogue box.</HelpString>
+          <SmallImage Name="2DEditStandard16" />
+          <LargeImage Name="2DEditStandard24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnEditBa">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0069">Edit Bay ...</Name>
+          <Command>EditBay; </Command>
+          <HelpString xlate="true" UID="XLS_0329">Edit selected bay using Bay Details dialogue box.</HelpString>
+          <SmallImage Name="2DEditBay16" />
+          <LargeImage Name="2DEditBay24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnEditRu">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0071">Edit Run ...</Name>
+          <Command>EditRun; </Command>
+          <HelpString xlate="true" UID="XLS_0331">Edit selected run using the Run Properties dialogue box.</HelpString>
+          <SmallImage Name="2DEditRun16" />
+          <LargeImage Name="2DEditRun24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnChaRLs">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0073">Edit RLs ...</Name>
+          <Command>ChangeRLs; </Command>
+          <HelpString xlate="true" UID="XLS_0318">Changes the RLs of a selected set of bays.</HelpString>
+          <SmallImage Name="ChangeRLs16" />
+          <LargeImage Name="ChangeRLs24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnKSC2Mil">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0076">Convert to Mills Corner</Name>
+          <Command>^C^CConvertToMillsCorner; </Command>
+          <HelpString xlate="true" UID="XLS_0345">Coverts an existing corner to a Mills System style corner.</HelpString>
+          <SmallImage Name="2DConv2Mil16" />
+          <LargeImage Name="2DConv2Mil24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnKSUCMil">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0078">Unconvert Mills Corner</Name>
+          <Command>^C^CUnconvertMillsCorner; </Command>
+          <HelpString xlate="true" UID="XLS_0349">Converts a corner from a Mills System style cornert to a normal corner.</HelpString>
+          <SmallImage Name="2DUConvMil16" />
+          <LargeImage Name="2DUConvMil24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnAddWTie">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0081">Wall Tie</Name>
+          <Command>^C^CAddTie;\;SSE;N;; </Command>
+          <HelpString xlate="true" UID="XLS_0311">Add a wall tie to the selected bay or run.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnAddFBr">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0083">Face Brace</Name>
+          <Command>^C^CAddBracing;\; </Command>
+          <HelpString xlate="true" UID="XLS_0304">Add Face Braces to a bay in the schematic.</HelpString>
+          <SmallImage Name="2DAddFaceBracing16" />
+          <LargeImage Name="2DAddFaceBracing24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnInsLap">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0085">Lapboard</Name>
+          <Command>^C^CAddLapboard; </Command>
+          <HelpString xlate="true" UID="XLS_0339">Insert a set of Lapboard from Bay to Bay or Bay to point.</HelpString>
+          <SmallImage Name="InsertLapboard16" />
+          <LargeImage Name="InsertLapboard24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnAddTTu">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0087">Tube Tie</Name>
+          <Command>^C^CAddTube; </Command>
+          <HelpString xlate="true" UID="XLS_0310">Add Tube Tie between runs in the schematic.</HelpString>
+          <SmallImage Name="2DAddTieTube16" />
+          <LargeImage Name="2DAddTieTube24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnAddHRa">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0089">Handrail</Name>
+          <Command>^C^CAddHandrail; </Command>
+          <HelpString xlate="true" UID="XLS_0306">Add Handrails to the selected bay.</HelpString>
+          <SmallImage Name="2DAddHandrail16" />
+          <LargeImage Name="2DAddHandrail24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnAddHop">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0091">Hopups</Name>
+          <Command>^C^CAddHopups; </Command>
+          <HelpString xlate="true" UID="XLS_0305">Add Hopups to the selected bay.</HelpString>
+          <SmallImage Name="2DAddHopups16" />
+          <LargeImage Name="2DAddHopups24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnAddICF">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0093">Internal Corner Filler</Name>
+          <Command>^C^CAddCornerStageBoard; </Command>
+          <HelpString xlate="true" UID="XLS_0307">Add an Internal Corner Filler to an end bay in schematic.</HelpString>
+          <SmallImage Name="AddCornerFiller16" />
+          <LargeImage Name="AddCornerFiller24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnAddCha">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0095">Chain Mesh</Name>
+          <Command>^C^CAddChainLink; </Command>
+          <HelpString xlate="true" UID="XLS_0303">Add Chain Mesh to the selected run.</HelpString>
+          <SmallImage Name="2DAddChainLink16" />
+          <LargeImage Name="2DAddChainLink24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnAddSha">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0097">Add Shadecloth</Name>
+          <Command>^C^CAddShadeCloth; </Command>
+          <HelpString xlate="true" UID="XLS_0309">Add Shade-cloth to the selected run.</HelpString>
+          <SmallImage Name="2DAddShadecloth16" />
+          <LargeImage Name="2DAddShadecloth24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnInsBay">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0099">Insert Bay</Name>
+          <Command>^C^CInsertBay; </Command>
+          <HelpString xlate="true" UID="XLS_0337">Insert a bay into selected run either north, south, east, or west.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnInsRun">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0101">Insert Run</Name>
+          <Command>^C^CInsertBay;\;\R;; </Command>
+          <HelpString xlate="true" UID="XLS_0340">Insert a run by picking on a bay within an existing run.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnInsSta">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0103">Insert Stair Bay</Name>
+          <Command>^C^CStairBay; </Command>
+          <HelpString xlate="true" UID="XLS_0341">Insert a stair bay into selected run.</HelpString>
+          <SmallImage Name="ConvertStairBay16" />
+          <LargeImage Name="ConvertStairBay24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnInsLad">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0105">Insert Ladder Bay</Name>
+          <Command>^C^CLadderBay; </Command>
+          <HelpString xlate="true" UID="XLS_0338">Insert a ladder bay into selected run.</HelpString>
+          <SmallImage Name="ConvertLaderBay16" />
+          <LargeImage Name="ConvertLaderBay24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnInsBut">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0107">Convert bay to Butress</Name>
+          <Command>^C^CButtressBay; </Command>
+          <SmallImage Name="ConvertButtresBay16" />
+          <LargeImage Name="ConvertButtresBay24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnReFBra">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0110">Face Brace</Name>
+          <Command>RemoveBraceing; </Command>
+          <HelpString xlate="true" UID="XLS_0359">Removes face bracing from the selected bays.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnReWTie">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0112">Wall Tie</Name>
+          <Command>RemoveTies;\;; </Command>
+          <HelpString xlate="true" UID="XLS_0366">Removes Wall ties and tie tubes from selection or run.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnReHRai">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0114">Handrail</Name>
+          <Command>RemoveHandrail; </Command>
+          <HelpString xlate="true" UID="XLS_0361">Removes handrails from the selected bays.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnReHopu">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0116">Hopups</Name>
+          <Command>RemoveHopups; </Command>
+          <HelpString xlate="true" UID="XLS_0360">Removes Hopups from the selected bays.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnReICF">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0118">Interanl Corner Filler</Name>
+          <Command>RemoveCornerStageBoard; </Command>
+          <HelpString xlate="true" UID="XLS_0362">Removes internal corner filler from the selected bay.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnReChai">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0120">Chain Mesh</Name>
+          <Command>RemoveChainLink; </Command>
+          <HelpString xlate="true" UID="XLS_0358">Removes chain from the selected run.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnReShad">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0122">Remove Shadecloth</Name>
+          <Command>RemoveShadecloth; </Command>
+          <HelpString xlate="true" UID="XLS_0364">Removes Shade-cloth from the selected run.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnInstCo">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0125">Insert 3D component</Name>
+          <Command>^C^CInsertComponent; </Command>
+          <HelpString xlate="true" UID="XLS_0342">Insert a 3D component using the Insert Visual Component dialogue box.</HelpString>
+          <SmallImage Name="3DInsertComponent16" />
+          <LargeImage Name="3DInsertComponent24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnEditCo">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0127">Edit 3D Components</Name>
+          <Command>^C^CEditComponents; </Command>
+          <HelpString xlate="true" UID="XLS_0330">Edit selected component using Visual Component Editor dialogue box.</HelpString>
+          <SmallImage Name="3DEditComponent16" />
+          <LargeImage Name="3DEditComponent24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnCopyCo">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0129">Copy 3D components</Name>
+          <Command>^C^CCopyComponents; </Command>
+          <HelpString xlate="true" UID="XLS_0323">Copy and position one or more 3D Components.</HelpString>
+          <SmallImage Name="3DCopyComponents16" />
+          <LargeImage Name="3DCopyComponents24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnMoveCo">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0131">Move 3D components</Name>
+          <Command>^C^CMoveComponents; </Command>
+          <HelpString xlate="true" UID="XLS_0356">Move one or more 3D components.</HelpString>
+          <SmallImage Name="3DMoveComponents16" />
+          <LargeImage Name="3DMoveComponents24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnRotCo">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0133">Rotate 3D components</Name>
+          <Command>^C^CRotateComponents; </Command>
+          <HelpString xlate="true" UID="XLS_0367">Rotate one or more 3D components.</HelpString>
+          <SmallImage Name="3DRotateComponents16" />
+          <LargeImage Name="3DRotateComponents24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnGMatri">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0135">Create Matrix View</Name>
+          <Command>^C^CCreateMatrix; </Command>
+          <HelpString xlate="true" UID="XLS_0335">Generate the Matrix based on the schematic.</HelpString>
+          <SmallImage Name="MatrixCreate16" />
+          <LargeImage Name="MatrixCreate24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnDMatri">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0137">Remove Matrix View</Name>
+          <Command>^C^CDeleteMatrix; </Command>
+          <HelpString xlate="true" UID="XLS_0324">Remove the matrix from the display.</HelpString>
+          <SmallImage Name="MatrixDelete16" />
+          <LargeImage Name="MatrixDelete24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnHideMa">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0140">Hide Matrix Sections</Name>
+          <Command>^C^CHideMatrixSections; </Command>
+          <HelpString xlate="true" UID="XLS_0336">Hide Matrix section by picking them from the display.</HelpString>
+          <SmallImage Name="HideMatrixSections16" />
+          <LargeImage Name="HideMatrixSections24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnShowMa">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0142">Show All Matrix Sections</Name>
+          <Command>^C^CShowEntireMatrix; </Command>
+          <HelpString xlate="true" UID="XLS_0369">Resets the Matrix to display all section.</HelpString>
+          <SmallImage Name="ShowEntireMatrix16" />
+          <LargeImage Name="ShowEntireMatrix24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnAddLev">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0145">Add Level</Name>
+          <Command>^C^CAddLevel;RegenMatrixLevels; </Command>
+          <HelpString xlate="true" UID="XLS_0308">Add level using the Matrix view.</HelpString>
+          <SmallImage Name="MatrixAddLevels16" />
+          <LargeImage Name="MatrixAddLevels24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnMovLev">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0147">Move Level</Name>
+          <Command>^C^CMove;\RegenMatrixLevels; </Command>
+          <HelpString xlate="true" UID="XLS_0355">Move level divider on the Matrix view.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnErsLev">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0149">Erase Level</Name>
+          <Command>^C^CErase;\RegenMatrixLevels; </Command>
+          <HelpString xlate="true" UID="XLS_0334">Erase level divider on the Matrix view.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnStages">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0151">Assign Deliveries</Name>
+          <Command>^C^CStages; </Command>
+          <HelpString xlate="true" UID="XLS_0371">Assigns a Delivery to a selection of bays based on levels.</HelpString>
+          <SmallImage Name="Deliveries16" />
+          <LargeImage Name="Deliveries24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnSetSL">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0153">Set Slab Levels</Name>
+          <Command>^C^CEnterLevels; </Command>
+          <HelpString xlate="true" UID="XLS_0370">Set slable levels. This MUST be done BEFOR AutoBuild is started for the FIRST time!</HelpString>
+          <SmallImage Name="SetSlabLevels16" />
+          <LargeImage Name="SetSlabLevels24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnKut">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0155">Kut® Section</Name>
+          <Command>^C^CKut; </Command>
+          <HelpString xlate="true" UID="XLS_0350">Create cross section bassed on a selected scaffold.</HelpString>
+          <SmallImage Name="Kut16" />
+          <LargeImage Name="Kut24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_Mn3D">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0157">Create 3D View</Name>
+          <Command>^C^CCreate3DView; </Command>
+          <HelpString xlate="true" UID="XLS_0296">Generate 3D view of scaffold from schematic.</HelpString>
+          <SmallImage Name="3dStandard16" />
+          <LargeImage Name="3dStandard24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnE3D">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0159">Remove 3D View</Name>
+          <Command>^C^CDelete3DView; </Command>
+          <HelpString xlate="true" UID="XLS_0327">Erase 3D view of scaffold.</HelpString>
+          <SmallImage Name="3dStandardDelete16" />
+          <LargeImage Name="3dStandardDelete24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnBOMEx">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0161">BOM Extra...</Name>
+          <Command>^C^CBOMExtra; </Command>
+          <HelpString xlate="true" UID="XLS_0315">Allows for the addition of no displayed components to the Bill Of Materials Extra.</HelpString>
+          <SmallImage Name="BOMExtra16" />
+          <LargeImage Name="BOMExtra24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnBOMS">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0163">BOM Summary...</Name>
+          <Command>^C^CBOMS; </Command>
+          <HelpString xlate="true" UID="XLS_0316">Generate a summary of the BOM based on Level and delivery settings.</HelpString>
+          <SmallImage Name="BOMSum16" />
+          <LargeImage Name="BOMSum24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnKSSheet">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0165">Insert Drawing Sheet</Name>
+          <Command>^C^CLayout;Template;"KwikScaf Titles.dwt" </Command>
+          <HelpString xlate="true" UID="XLS_0348">Insert Waco Kwikform drawing sheet into current layout.</HelpString>
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnKSSFill">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0167">Fill Drawing Sheet Details</Name>
+          <Command>^C^C(if (not AttPushProp) (load "KwikScaf.lsp"));AttPushProp; </Command>
+          <HelpString xlate="true" UID="XLS_0347">Puts information from the Job Details into the selected KwikScaf© title block.</HelpString>
+          <SmallImage Name="KSSheetFill16" />
+          <LargeImage Name="KSSheetFill24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnKSSEdit">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0169">Edit Drawing Sheet Details...</Name>
+          <Command>^C^C(if (not TitleBlockEdit) (load "KwikScaf.lsp"));TitleBlockEdit; </Command>
+          <HelpString xlate="true" UID="XLS_0346">Edit Waco Kwikform drawing sheet in current layout.</HelpString>
+          <SmallImage Name="KSSheetEdit16" />
+          <LargeImage Name="KSSheetedit24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_MnKSAbout">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0171">About KwikScaf©...</Name>
+          <Command>^C^CAboutKwikScaf; </Command>
+          <HelpString xlate="true" UID="XLS_0344">Display KwikScaf© verion and copyright information.</HelpString>
+          <SmallImage Name="AboutKwikScaf16" />
+          <LargeImage Name="AboutKwikScaf24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TKSSheet">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0203">Insert Drawing Sheet</Name>
+          <Command>^C^CLayout;Template;"KwikScaf Titles.dwt"; </Command>
+          <HelpString xlate="true" UID="XLS_0442">Insert Waco Kwikform drawing sheet into current layout.</HelpString>
+          <SmallImage Name="KSSheet16" />
+          <LargeImage Name="KSSheet24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TInsBayN">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0208">Insert Bay North</Name>
+          <Command>^C^CInsertBay;\;N;B; </Command>
+          <HelpString xlate="true" UID="XLS_0414">Insert a bay into slected run to the North.</HelpString>
+          <SmallImage Name="InsertBayNorth16" />
+          <LargeImage Name="InsertBayNorth24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TInsBayE">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0210">Insert Bay East</Name>
+          <Command>^C^CInsertBay;\;E;B; </Command>
+          <HelpString xlate="true" UID="XLS_0413">Insert a bay into slected run to the East.</HelpString>
+          <SmallImage Name="InsertBayEast16" />
+          <LargeImage Name="InsertBayEast24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TInsBayS">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0212">Insert Bay South</Name>
+          <Command>^C^CInsertBay;\;S;B; </Command>
+          <HelpString xlate="true" UID="XLS_0415">Insert a bay into slected run to the South.</HelpString>
+          <SmallImage Name="InsertBaySouth16" />
+          <LargeImage Name="InsertBaySouth24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TInsBayW">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0214">Insert Bay West</Name>
+          <Command>^C^CInsertBay;\;W;B; </Command>
+          <HelpString xlate="true" UID="XLS_0416">Insert a bay into slected run to the West.</HelpString>
+          <SmallImage Name="InsertBayWest16" />
+          <LargeImage Name="InsertBayWest24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TInsRunN">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0216">Insert Wall North</Name>
+          <Command>^C^CInsertBay;\;N;R; </Command>
+          <HelpString xlate="true" UID="XLS_0419">Insert a run north by picking on an exisiting bay within a run.</HelpString>
+          <SmallImage Name="InsertRunNorth16" />
+          <LargeImage Name="InsertRunNorth24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TInsRunS">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0218">Insert Wall South</Name>
+          <Command>^C^CInsertBay;\;S;R; </Command>
+          <HelpString xlate="true" UID="XLS_0420">Insert a run south by picking on an exisiting bay within a run.</HelpString>
+          <SmallImage Name="InsertRunSouth16" />
+          <LargeImage Name="InsertRunSouth24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TInsStaN">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0221">Insert Stair North</Name>
+          <Command>^C^CInsertBay;\;N;B;;StairBay;L;; </Command>
+          <HelpString xlate="true" UID="XLS_0421">Insert a stair bay to the North of the selection.</HelpString>
+          <SmallImage Name="InsertStairBayN16" />
+          <LargeImage Name="InsertStairBayN24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TInsLadN">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0224">Insert Ladder Bay North</Name>
+          <Command>^C^CInsertBay;\;N;B;;LadderBay;L;; </Command>
+          <HelpString xlate="true" UID="XLS_0417">Insert a ladder bay to the North of the selection.</HelpString>
+          <SmallImage Name="InsertLaderBayN16" />
+          <LargeImage Name="InsertLaderBayN24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TInsBut">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0227">Insert Butress Bay North</Name>
+          <Command>^C^CInsertBay;\;N;B;;ButtressBay;L;; </Command>
+          <SmallImage Name="InsertButtresBay16" />
+          <LargeImage Name="InsertButtresBay24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TAddWTie">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0232">Add Wall Ties</Name>
+          <Command>*^C^CAddTie;\;SSE;N;; </Command>
+          <HelpString xlate="true" UID="XLS_0394">Allows for the addation of wall ties to a bay.</HelpString>
+          <SmallImage Name="2DAddTie16" />
+          <LargeImage Name="2DAddTie24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TReWTie">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0242">Remove Tie</Name>
+          <Command>^C^CRemoveTies;\;; </Command>
+          <HelpString xlate="true" UID="XLS_0460">Removes Wall ties and tube ties from selection or run.</HelpString>
+          <SmallImage Name="2DRemoveWTie16" />
+          <LargeImage Name="2DRemoveWTie24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TReFBra">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0244">Remove Face Bracing</Name>
+          <Command>^C^CRemoveBracing; </Command>
+          <HelpString xlate="true" UID="XLS_0453">Remove Face Bracing from a bay in schematic</HelpString>
+          <SmallImage Name="2DRemoveFaceBracing16" />
+          <LargeImage Name="2DRemoveFaceBracing24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_THRehRai">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0246">Remove Handrail</Name>
+          <Command>^C^CRemoveHandrail; </Command>
+          <SmallImage Name="2DRemoveHandrail16" />
+          <LargeImage Name="2DRemoveHandrail24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TReHopU">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0248">Remove Hopups</Name>
+          <Command>^C^CRemoveHopups; </Command>
+          <HelpString xlate="true" UID="XLS_0454">Removes Hopups from the selected bay.</HelpString>
+          <SmallImage Name="2DRemoveHopups16" />
+          <LargeImage Name="2DRemoveHopups24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TReICF">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0250">Remove Internal Corner Filler</Name>
+          <Command>^C^CRemoveCornerStageBoard; </Command>
+          <HelpString xlate="true" UID="XLS_0456">Removes Internal Corner Filler.</HelpString>
+          <SmallImage Name="RemoveCornerFiller16" />
+          <LargeImage Name="RemoveCornerFiller24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TReChai">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0252">Remove Chain Mesh</Name>
+          <Command>^C^CRemoveChainLink; </Command>
+          <HelpString xlate="true" UID="XLS_0452">Removes Chain Mesh from the seleted run.</HelpString>
+          <SmallImage Name="2DRemoveChainLink16" />
+          <LargeImage Name="2DRemoveChainLink24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TReShad">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0254">Remove Shadecloth</Name>
+          <Command>^C^CRemoveShadecloth; </Command>
+          <HelpString xlate="true" UID="XLS_0457">Remvoes Shadecloth from the selected run.</HelpString>
+          <SmallImage Name="2DRemoveShadecloth16" />
+          <LargeImage Name="2DRemoveShadecloth24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TReSizBy">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0257">Resize Selected Bays</Name>
+          <Command>^C^CResizeBay; </Command>
+          <HelpString xlate="true" UID="XLS_0459">Resizes the the length and width of a selection of bays.</HelpString>
+          <SmallImage Name="2DResizeBay16" />
+          <LargeImage Name="2DResizeBay24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TRSBL2400">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0259">Resize Bay Lenght to 2400</Name>
+          <Command>^C^CResizeBay;\;2400;; </Command>
+          <HelpString xlate="true" UID="XLS_0431">Resize Bay Length to 2400.</HelpString>
+          <SmallImage Name="2DRBL2416" />
+          <LargeImage Name="2DRBL2424" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TRSBL1800">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0261">Resize Bay Lenght to 1800</Name>
+          <Command>^C^CResizeBay;\;1800;; </Command>
+          <HelpString xlate="true" UID="XLS_0432">Resize Bay Lenght to 1800.</HelpString>
+          <SmallImage Name="2DRBL1816" />
+          <LargeImage Name="2DRBL1824" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TRSBL1200">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0263">Resize Bay Lenght to 1200</Name>
+          <Command>^C^CResizeBay;\;1200;; </Command>
+          <HelpString xlate="true" UID="XLS_0433">Resize Bay Lenght to 1200.</HelpString>
+          <SmallImage Name="2DRBL1216" />
+          <LargeImage Name="2DRBL1224" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TRSBL0700">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0265">Resize Bay Lenght to 700</Name>
+          <Command>^C^CResizeBay;\;700;; </Command>
+          <HelpString xlate="true" UID="XLS_0434">Resize Bay Lenght to 700.</HelpString>
+          <SmallImage Name="2DRBL0716" />
+          <LargeImage Name="2DRBL0724" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TRSBW2400">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0267">Resize Bay Width to 2400</Name>
+          <Command>^C^CResizeBay;\;W;2400;; </Command>
+          <HelpString xlate="true" UID="XLS_0435">Resize Bay Width to 2400.</HelpString>
+          <SmallImage Name="2DRBW2416" />
+          <LargeImage Name="2DRBW2424" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TRSBW1800">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0269">Resize Bay Width to 1800</Name>
+          <Command>^C^CResizeBay;\;W;1800;; </Command>
+          <HelpString xlate="true" UID="XLS_0436">Resize Bay Width to 1800.</HelpString>
+          <SmallImage Name="2DRBW1816" />
+          <LargeImage Name="2DRBW1824" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TRSBW1200">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0271">Resize Bay Width to 1200</Name>
+          <Command>^C^CResizeBay;\;W;1200;; </Command>
+          <HelpString xlate="true" UID="XLS_0437">Resize Bay Width to 1200.</HelpString>
+          <SmallImage Name="2DRBW1216" />
+          <LargeImage Name="2DRBW1224" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TRSBW0700">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0273">Resize Bay Width to 700</Name>
+          <Command>^C^CResizeBay;\;W;700;; </Command>
+          <HelpString xlate="true" UID="XLS_0438">Resize Bay Width to 700.</HelpString>
+          <SmallImage Name="2DRBW0716" />
+          <LargeImage Name="2DRBW0724" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TMovLevl">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0283">Move Level</Name>
+          <Command>^C^CMove;\;\\RegenMatrixLevels; </Command>
+          <HelpString xlate="true" UID="XLS_0449">Move level divider on the Matrix view.</HelpString>
+          <SmallImage Name="MatrixMovLevels16" />
+          <LargeImage Name="MatrixMovLevels24" />
+        </Macro>
+      </MenuMacro>
+      <MenuMacro UID="ID_TEraLevl">
+        <Macro type="Any">
+          <Revision MajorVersion="16" MinorVersion="2" UserVersion="1" />
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0285">Erase Level</Name>
+          <Command>^C^CErase;\;RegenMatrixLevels; </Command>
+          <SmallImage Name="MatrixEraLevels16" />
+          <LargeImage Name="MatrixEraLevels24" />
+        </Macro>
+      </MenuMacro>
+    </MacroGroup>
+    <MenuRoot>
+      <AcceleratorRoot />
+      <OverrideRoot />
+      <MouseButtonRoot />
+      <DigitizerButtonRoot />
+      <PopMenuRoot>
+        <PopMenu hasDiesel="false" UID="ID_MnKwikSca">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Alias>POP1</Alias>
+          <Alias>MnKwikScaf</Alias>
+          <Name xlate="true" UID="XLS_0001">&amp;KwikScaf©</Name>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0001">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0003" xlate="true">&amp;Load KwikScaf© Toolbar</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnLdTool" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuRef pUID="ID_MnUtil" UID="PMRU_0001">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuRef>
+          <PopMenuItem IsSeparator="true" hasDiesel="false" UID="PMIU_0034">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0035">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0054" xlate="true">Job Details...</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnJobDet" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="true" hasDiesel="false" UID="PMIU_0036">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0037">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0056" xlate="true">&amp;AutoBuild</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAutoBu" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuRef pUID="ID_MnABOptio" UID="PMRU_0002">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuRef>
+          <PopMenuItem IsSeparator="true" hasDiesel="false" UID="PMIU_0041">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0042">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0065" xlate="true">Resize Bay</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnReSzBa" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuRef pUID="ID_MnEdit" UID="PMRU_0003">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuRef>
+          <PopMenuRef pUID="ID_MnAdd" UID="PMRU_0004">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuRef>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0059">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0100" xlate="true">Insert Bay</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnInsBay" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0060">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0102" xlate="true">Insert Run</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnInsRun" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0061">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0104" xlate="true">Insert Stair Bay</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnInsSta" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0062">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0106" xlate="true">Insert Ladder Bay</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnInsLad" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0063">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0108" xlate="true">Convert bay to Butress</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnInsBut" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuRef pUID="ID_MnRemove" UID="PMRU_0005">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuRef>
+          <PopMenuRef pUID="ID_Mn3DVis" UID="PMRU_0006">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuRef>
+          <PopMenuItem IsSeparator="true" hasDiesel="false" UID="PMIU_0076">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0077">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0136" xlate="true">Create Matrix View</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnGMatri" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0078">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0138" xlate="true">Remove Matrix View</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnDMatri" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuRef pUID="ID_MnCustMa" UID="PMRU_0007">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuRef>
+          <PopMenuRef pUID="ID_MnLevels" UID="PMRU_0008">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuRef>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0086">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0156" xlate="true">Kut® Section</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnKut" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="true" hasDiesel="false" UID="PMIU_0087">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0088">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0158" xlate="true">Create 3D &amp;View</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_Mn3D" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0089">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0160" xlate="true">Remove 3D Vie&amp;w</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnE3D" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="true" hasDiesel="false" UID="PMIU_0090">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0091">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0162" xlate="true">BOM Extra...</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnBOMEx" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0092">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0164" xlate="true">BOM Summary...</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnBOMS" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="true" hasDiesel="false" UID="PMIU_0093">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0094">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0166" xlate="true">Insert Drawing Sheet</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnKSSheet" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0095">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0168" xlate="true">Fill Drawing Sheet Details</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnKSSFill" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0096">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0170" xlate="true">Edit Drawing Sheet Details...</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnKSSEdit" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="true" hasDiesel="false" UID="PMIU_0097">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0098">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0172" xlate="true">About KwikScaf©...</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnKSAbout" />
+            </MenuItem>
+          </PopMenuItem>
+        </PopMenu>
+        <PopMenu hasDiesel="false" UID="ID_MnUtil">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0004">Utilities</Name>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0002">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0006" xlate="true">Use KwikStage System</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_KwikStag" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0003">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0008" xlate="true">Use Mills Systems</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_Millssys" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0004">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0010" xlate="true">Use Mills System Corners</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnMilSysC" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0005">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0012" xlate="true">Use Normal Corners</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnNormC" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="true" hasDiesel="false" UID="PMIU_0006">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0007">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0014" xlate="true">Use Wirefram Components</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnWire" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0008">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0016" xlate="true">Use Actual Matrix Components</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAMat" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0009">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0018" xlate="true">Use Actual 3D Components</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnA3D" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0010">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0020" xlate="true">Use Actual Components for Matrix and 3D</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnComp" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="true" hasDiesel="false" UID="PMIU_0011">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0012">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0022" xlate="true">Use Sydney Corners</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnSydCrn" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0013">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0024" xlate="true">Set Sydney Corners Offset</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnSydSep" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0014">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0026" xlate="true">Don't Use Sydney Corners</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnSydCNo" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="true" hasDiesel="false" UID="PMIU_0015">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0016">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0028" xlate="true">Shade and Chain per roll...</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnPerRol" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="true" hasDiesel="false" UID="PMIU_0017">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0018">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0030" xlate="true">Use Putlog Clips</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnUPLC" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0019">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0032" xlate="true">Don't Use Putlog Clips</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnDUPLC" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="true" hasDiesel="false" UID="PMIU_0020">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0021">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0034" xlate="true">Use 1.5m Sole Boards</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnU15SB" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0022">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0036" xlate="true">Use Regular Sole Boards</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnDU15SB" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="true" hasDiesel="false" UID="PMIU_0023">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0024">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0038" xlate="true">Dispaly 3D as colour</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnCBSL" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0025">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0040" xlate="true">Show Matrix Section Label on Schematic</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_SMSLOS" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0026">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0042" xlate="true">Hide Matrix Section Label on Schematic</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_DSMSLOS" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="true" hasDiesel="false" UID="PMIU_0027">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0028">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0044" xlate="true">Create BOM CSV</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnBOM" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0029">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0046" xlate="true">Reset ComponentDetails.CSV file</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnCSVRes" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0030">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0048" xlate="true">Reset Stock.CSV system veriable</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnCSDFN" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0031">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0050" xlate="true">Edit Available Stock...</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnEditSto" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="true" hasDiesel="false" UID="PMIU_0032">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0033">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0052" xlate="true">Reset Dialogue Positions</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnRsDlg" />
+            </MenuItem>
+          </PopMenuItem>
+        </PopMenu>
+        <PopMenu hasDiesel="false" UID="ID_MnABOptio">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0057">AutoBuild Options</Name>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0038">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0059" xlate="true">AutoBuild &amp;Wall</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnABWall" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0039">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0061" xlate="true">AutoBuild &amp;Arc</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnABArc" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0040">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0063" xlate="true">Autobuild &amp;Birdcage</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnABBird" />
+            </MenuItem>
+          </PopMenuItem>
+        </PopMenu>
+        <PopMenu hasDiesel="false" UID="ID_MnEdit">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0066">Edit</Name>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0043">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0068" xlate="true">Edit Standards ...</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnEditStd" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0044">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0070" xlate="true">Edit Bay ...</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnEditBa" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0045">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0072" xlate="true">Edit Run ...</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnEditRu" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0046">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0074" xlate="true">Edit RLs ...</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnChaRLs" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0047">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0075" xlate="true">Edit Available Stock...</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnEditSto" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0048">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0077" xlate="true">Convert to Mills Corner</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnKSC2Mil" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0049">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0079" xlate="true">Unconvert Mills Corner</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnKSUCMil" />
+            </MenuItem>
+          </PopMenuItem>
+        </PopMenu>
+        <PopMenu hasDiesel="false" UID="ID_MnAdd">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0080">Add</Name>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0050">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0082" xlate="true">Wall Tie</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAddWTie" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0051">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0084" xlate="true">Face Brace</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAddFBr" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0052">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0086" xlate="true">Lapboard</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnInsLap" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0053">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0088" xlate="true">Tube Tie</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAddTTu" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0054">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0090" xlate="true">Handrail</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAddHRa" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0055">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0092" xlate="true">Hopups</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAddHop" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0056">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0094" xlate="true">Internal Corner Filler</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAddICF" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0057">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0096" xlate="true">Chain Mesh</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAddCha" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0058">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0098" xlate="true">Add Shadecloth</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAddSha" />
+            </MenuItem>
+          </PopMenuItem>
+        </PopMenu>
+        <PopMenu hasDiesel="false" UID="ID_MnRemove">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0109">Remove</Name>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0064">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0111" xlate="true">Face Brace</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnReFBra" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0065">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0113" xlate="true">Wall Tie</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnReWTie" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0066">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0115" xlate="true">Handrail</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnReHRai" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0067">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0117" xlate="true">Hopups</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnReHopu" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0068">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0119" xlate="true">Interanl Corner Filler</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnReICF" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0069">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0121" xlate="true">Chain Mesh</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnReChai" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0070">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0123" xlate="true">Remove Shadecloth</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnReShad" />
+            </MenuItem>
+          </PopMenuItem>
+        </PopMenu>
+        <PopMenu hasDiesel="false" UID="ID_Mn3DVis">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0124">Visual 3D Components</Name>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0071">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0126" xlate="true">Insert 3D component</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnInstCo" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0072">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0128" xlate="true">Edit 3D Components</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnEditCo" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0073">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0130" xlate="true">Copy 3D components</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnCopyCo" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0074">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0132" xlate="true">Move 3D components</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnMoveCo" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0075">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0134" xlate="true">Rotate 3D components</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnRotCo" />
+            </MenuItem>
+          </PopMenuItem>
+        </PopMenu>
+        <PopMenu hasDiesel="false" UID="ID_MnCustMa">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0139">Customise Matrix View</Name>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0079">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0141" xlate="true">Hide Matrix Sections</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnHideMa" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0080">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0143" xlate="true">Show All Matrix Sections</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnShowMa" />
+            </MenuItem>
+          </PopMenuItem>
+        </PopMenu>
+        <PopMenu hasDiesel="false" UID="ID_MnLevels">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Name xlate="true" UID="XLS_0144">Levels &amp; Deliveries</Name>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0081">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0146" xlate="true">Add Level</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAddLev" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0082">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0148" xlate="true">Move Level</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnMovLev" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0083">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0150" xlate="true">Erase Level</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnErsLev" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0084">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0152" xlate="true">Assign Deliveries</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnStages" />
+            </MenuItem>
+          </PopMenuItem>
+          <PopMenuItem IsSeparator="false" hasDiesel="false" UID="PMIU_0085">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <NameRef UID="XLS_0154" xlate="true">Set Slab Levels</NameRef>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnSetSL" />
+            </MenuItem>
+          </PopMenuItem>
+        </PopMenu>
+      </PopMenuRoot>
+      <ToolbarRoot>
+        <Toolbar ToolbarOrient="floating" ToolbarVisible="show" xval="100" yval="450" rows="1" UID="ID_TbKwikSca">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Alias>TB_KwikScaf</Alias>
+          <Alias>KwikScaf©_Commands</Alias>
+          <Description xlate="true" UID="XLS_0396">KwikScaf© toolbar</Description>
+          <Name xlate="true" UID="XLS_0173">KwikScaf© Commands</Name>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0001">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0174">AutoBuild</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAutoBu" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0002">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0175">AutoBuild Wall</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnABWall" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0003">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0176">AutoBuild Arc</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnABArc" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0004">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0177">AutoBuild Birdcage</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnABBird" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="true" UID="TBBU_0005">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0006">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0178">BOM Summary</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnBOMS" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0007">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0179">Add parts to the BOM Extra</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnBOMEx" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0008">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0180">Job Details</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnJobDet" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="true" UID="TBBU_0009">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0010">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0181">Generate 3D View</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_Mn3D" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0011">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0182">Remove 3D View</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnE3D" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="true" UID="TBBU_0012">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0013">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0183">Generate Matrix</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnGMatri" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0014">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0184">Remove Matrix</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnDMatri" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="true" UID="TBBU_0015">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </ToolbarButton>
+          <ToolbarFlyout UseOwnIcon="false" pTargetAlias="TB_KSMatrixH" UID="ID_TMatrixH">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <FlyoutName xlate="true" UID="XLS_0185">Hide Show Matrix</FlyoutName>
+            <SmallImage Name="HideMatrixSections16" />
+            <LargeImage Name="HideMatrixSections24" />
+          </ToolbarFlyout>
+          <ToolbarFlyout UseOwnIcon="false" pTargetAlias="TB_KSLevels" UID="ID_TLevels">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <FlyoutName xlate="true" UID="XLS_0186">Levels</FlyoutName>
+            <SmallImage Name="MatrixAddLevels16" />
+            <LargeImage Name="MatrixAddLevels24" />
+          </ToolbarFlyout>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0016">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0187">Kut® Section</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnKut" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0017">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0188">Assign Deliveries</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnStages" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="true" UID="TBBU_0018">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </ToolbarButton>
+          <ToolbarFlyout UseOwnIcon="false" pTargetAlias="TB_BayResize" UID="ID_TReDmBay">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <FlyoutName xlate="true" UID="XLS_0189">Dimension Bay</FlyoutName>
+            <Description xlate="true" UID="XLS_0466">Change the dimensions of selected bays.</Description>
+            <SmallImage Name="2DResizeBay16" />
+            <LargeImage Name="2DResizeBay24" />
+          </ToolbarFlyout>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0019">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0190">Edit Standard Configuration</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnEditStd" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0020">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0191">Edit Bay</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnEditBa" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0021">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0192">Edit Run</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnEditRu" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarFlyout UseOwnIcon="false" pTargetAlias="TB_3DComp" UID="ID_T3DComp">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <FlyoutName xlate="true" UID="XLS_0193">3D Components</FlyoutName>
+            <Description xlate="true" UID="XLS_0381">KwikScaf© 3D Component toolbar.</Description>
+            <SmallImage Name="3DInsertComponent16" />
+            <LargeImage Name="3DInsertComponent24" />
+          </ToolbarFlyout>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0022">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0194">Edit RLs</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnChaRLs" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarFlyout UseOwnIcon="false" pTargetAlias="TB_KSMills" UID="ID_TMills">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <FlyoutName xlate="true" UID="XLS_0195">Mills System Corner</FlyoutName>
+            <Description xlate="true" UID="XLS_0448">KwikScaf© Mills ...</Description>
+            <SmallImage Name="2DConv2Mil16" />
+            <LargeImage Name="2DConv2Mil24" />
+          </ToolbarFlyout>
+          <ToolbarButton IsSeparator="true" UID="TBBU_0023">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </ToolbarButton>
+          <ToolbarFlyout UseOwnIcon="false" pTargetAlias="TB_KSInBay" UID="ID_TInsBay">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <FlyoutName xlate="true" UID="XLS_0196">Insert Bay</FlyoutName>
+            <Description xlate="true" UID="XLS_0412">Insert a bay ...</Description>
+            <SmallImage Name="InsertBay16" />
+            <LargeImage Name="InsertBay24" />
+          </ToolbarFlyout>
+          <ToolbarFlyout UseOwnIcon="false" pTargetAlias="TB_KSStLd" UID="ID_TStLd">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <FlyoutName xlate="true" UID="XLS_0197">Insert Stair or Ladder</FlyoutName>
+            <Description xlate="true" UID="XLS_0465">Stair &amp; Ladder ...</Description>
+            <SmallImage Name="InsertStairBay16" />
+            <LargeImage Name="InsertStairBay24" />
+          </ToolbarFlyout>
+          <ToolbarFlyout UseOwnIcon="false" pTargetAlias="TB_KSAdd" UID="ID_TAdd">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <FlyoutName xlate="true" UID="XLS_0198">Add Component</FlyoutName>
+            <Description xlate="true" UID="XLS_0385">Add Compnent ...</Description>
+            <SmallImage Name="AddComp16" />
+            <LargeImage Name="AddComp24" />
+          </ToolbarFlyout>
+          <ToolbarFlyout UseOwnIcon="false" pTargetAlias="TB_KSRemove" UID="ID_TRemove">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <FlyoutName xlate="true" UID="XLS_0199">Remove Component</FlyoutName>
+            <Description xlate="true" UID="XLS_0451">Remove component ...</Description>
+            <SmallImage Name="RemoveComp16" />
+            <LargeImage Name="RemoveComp24" />
+          </ToolbarFlyout>
+          <ToolbarFlyout UseOwnIcon="false" pTargetAlias="TB_KSTitle" UID="ID_TKsTB">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <FlyoutName xlate="true" UID="XLS_0200">Title Block</FlyoutName>
+            <Description xlate="true" UID="XLS_0444">KwikScaf© Title block ...</Description>
+            <SmallImage Name="KSTitleBlock16" />
+            <LargeImage Name="KSTitleBlock24" />
+          </ToolbarFlyout>
+          <ToolbarButton IsSeparator="true" UID="TBBU_0024">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0025">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0201">About KwikScaf©...</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnKSAbout" />
+            </MenuItem>
+          </ToolbarButton>
+        </Toolbar>
+        <Toolbar ToolbarOrient="floating" ToolbarVisible="hide" xval="100" yval="525" rows="1" UID="ID_TKSTitle">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Alias>TB_KSTitle</Alias>
+          <Alias>KwikScaf©_Title</Alias>
+          <Description xlate="true" UID="XLS_0445">KwikScaf© Title block toolbar.</Description>
+          <Name xlate="true" UID="XLS_0202">KwikScaf© Title</Name>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0026">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0204">Insert Drawing Sheet</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TKSSheet" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0027">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0205">Fill Title Block</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnKSSFill" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0028">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0206">Edit Drawing Sheet Details</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnKSSEdit" />
+            </MenuItem>
+          </ToolbarButton>
+        </Toolbar>
+        <Toolbar ToolbarOrient="floating" ToolbarVisible="hide" xval="100" yval="425" rows="1" UID="ID_TKSInBay">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Alias>TB_KSInBay</Alias>
+          <Alias>KwikScaf©_Insert</Alias>
+          <Description xlate="true" UID="XLS_0427">KwikScaf© Insert toolbar.</Description>
+          <Name xlate="true" UID="XLS_0207">KwikScaf© Insert</Name>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0029">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0209">Insert Bay North</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TInsBayN" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0030">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0211">Insert Bay East</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TInsBayE" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0031">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0213">Insert Bay South</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TInsBayS" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0032">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0215">Insert Bay West</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TInsBayW" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0033">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0217">Insert Wall North</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TInsRunN" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0034">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0219">Insert Wall South</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TInsRunS" />
+            </MenuItem>
+          </ToolbarButton>
+        </Toolbar>
+        <Toolbar ToolbarOrient="floating" ToolbarVisible="hide" xval="175" yval="500" rows="1" UID="ID_TKSStLd">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Alias>TB_KSStLd</Alias>
+          <Alias>KwikScaf©_Stair_&amp;_Ladder</Alias>
+          <Description xlate="true" UID="XLS_0443">KwikScaf© Stair &amp; Ladder toolbar.</Description>
+          <Name xlate="true" UID="XLS_0220">KwikScaf© Stair &amp; Ladder</Name>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0035">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0222">Insert Stair North</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TInsStaN" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0036">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0223">Convert to Stair Bay</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnInsSta" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0037">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0225">Insert Ladder Bay North</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TInsLadN" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0038">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0226">Convert to Ladder Bay</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnInsLad" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0039">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0228">Insert Butress Bay North</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TInsBut" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0040">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0229">Convert to Butress Bay</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnInsBut" />
+            </MenuItem>
+          </ToolbarButton>
+        </Toolbar>
+        <Toolbar ToolbarOrient="floating" ToolbarVisible="hide" xval="125" yval="450" rows="1" UID="ID_TKSadd">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Alias>TB_KSAdd</Alias>
+          <Alias>KwikScaf©_Add</Alias>
+          <Description xlate="true" UID="XLS_0425">KwikScaf© Add toolbar.</Description>
+          <Name xlate="true" UID="XLS_0230">KwikScaf© Add</Name>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0041">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0231">Add Lapboard</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnInsLap" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0042">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0233">Add Wall Ties</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TAddWTie" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0043">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0234">Add Face Bracing</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAddFBr" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0044">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0235">Add Tube Tie</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAddTTu" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0045">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0236">Add Handrail</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAddHRa" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0046">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0237">Add Hopups</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAddHop" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0047">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0238">Add Internal Corner Filler</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAddICF" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0048">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0239">Add Chain Mesh</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAddCha" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0049">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0240">Add Shadecloth</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAddSha" />
+            </MenuItem>
+          </ToolbarButton>
+        </Toolbar>
+        <Toolbar ToolbarOrient="floating" ToolbarVisible="hide" xval="150" yval="475" rows="1" UID="ID_TKSRemov">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Alias>TB_KSRemove</Alias>
+          <Alias>KwikScaf©_Remove</Alias>
+          <Description xlate="true" UID="XLS_0439">KwikScaf© Remove toolbar.</Description>
+          <Name xlate="true" UID="XLS_0241">KwikScaf© Remove</Name>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0050">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0243">Remove Tie</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TReWTie" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0051">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0245">Remove Face Bracing</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TReFBra" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0052">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0247">Remove Handrail</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_THRehRai" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0053">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0249">Remove Hopups</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TReHopU" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0054">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0251">Remove Internal Corner Filler</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TReICF" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0055">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0253">Remove Chain Mesh</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TReChai" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0056">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0255">Remove Shadecloth</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TReShad" />
+            </MenuItem>
+          </ToolbarButton>
+        </Toolbar>
+        <Toolbar ToolbarOrient="floating" ToolbarVisible="hide" xval="125" yval="450" rows="1" UID="ID_TReSzBay">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Alias>TB_BayResize</Alias>
+          <Alias>KwikScaf©_Resize_Bay</Alias>
+          <Description xlate="true" UID="XLS_0458">KwikScaf Resize Bay</Description>
+          <Name xlate="true" UID="XLS_0256">KwikScaf© Resize Bay</Name>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0057">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0258">Resize Selected Bays</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TReSizBy" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0058">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0260">Resize Bay Lenght to 2400</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TRSBL2400" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0059">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0262">Resize Bay Lenght to 1800</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TRSBL1800" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0060">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0264">Resize Bay Lenght to 1200</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TRSBL1200" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0061">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0266">Resize Bay Lenght to 700</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TRSBL0700" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0062">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0268">Resize Bay Width to 2400</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TRSBW2400" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0063">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0270">Resize Bay Width to 1800</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TRSBW1800" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0064">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0272">Resize Bay Width to 1200</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TRSBW1200" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0065">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0274">Resize Bay Width to 700</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TRSBW0700" />
+            </MenuItem>
+          </ToolbarButton>
+        </Toolbar>
+        <Toolbar ToolbarOrient="floating" ToolbarVisible="hide" xval="150" yval="500" rows="1" UID="ID_TKSMills">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Alias>TB_KSMills</Alias>
+          <Alias>KwikScaf©_Mills</Alias>
+          <Description xlate="true" UID="XLS_0430">KwikScaf© Mills toolbar.</Description>
+          <Name xlate="true" UID="XLS_0275">KwikScaf© Mills</Name>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0066">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0276">Convert to Mills Corner</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnKSC2Mil" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0067">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0277">Unconvert Mills Corner</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnKSUCMil" />
+            </MenuItem>
+          </ToolbarButton>
+        </Toolbar>
+        <Toolbar ToolbarOrient="floating" ToolbarVisible="hide" xval="150" yval="525" rows="1" UID="ID_TKSMatrix">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Alias>TB_KSMatrixH</Alias>
+          <Alias>KwikScaf©_Matrix</Alias>
+          <Description xlate="true" UID="XLS_0429">KwikScaf© Matrix toolbar.</Description>
+          <Name xlate="true" UID="XLS_0278">KwikScaf© Matrix</Name>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0068">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0279">Hide Matrix Sections</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnHideMa" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0069">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0280">Show All Matrix Sections</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnShowMa" />
+            </MenuItem>
+          </ToolbarButton>
+        </Toolbar>
+        <Toolbar ToolbarOrient="floating" ToolbarVisible="hide" xval="150" yval="550" rows="1" UID="ID_TKSLevels">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Alias>TB_KSLevels</Alias>
+          <Alias>KwikScaf©_Levels</Alias>
+          <Name xlate="true" UID="XLS_0281">KwikScaf© Levels</Name>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0070">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0282">Add Level</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnAddLev" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0071">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0284">Move Level</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TMovLevl" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0072">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0286">Erase Level</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_TEraLevl" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0073">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0287">Set Slab Levels</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnSetSL" />
+            </MenuItem>
+          </ToolbarButton>
+        </Toolbar>
+        <Toolbar ToolbarOrient="floating" ToolbarVisible="hide" xval="150" yval="575" rows="1" UID="TBU_0012">
+          <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+          <Alias>TB_3DComp</Alias>
+          <Alias>KwikScaf©_3D_Components</Alias>
+          <Description xlate="true" UID="XLS_0381">KwikScaf© 3D Component toolbar.</Description>
+          <Name xlate="true" UID="XLS_0288">KwikScaf© 3D Components</Name>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0074">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0289">Insert 3D Components</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnInstCo" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0075">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0290">Edit 3D Components</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnEditCo" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0076">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0291">Copy 3D Components</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnCopyCo" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0077">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0292">Move 3D Components</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnMoveCo" />
+            </MenuItem>
+          </ToolbarButton>
+          <ToolbarButton IsSeparator="false" UID="TBBU_0078">
+            <ModifiedRev MajorVersion="17" MinorVersion="1" UserVersion="1" />
+            <Name xlate="true" UID="XLS_0293">Rotate 3D Components</Name>
+            <MenuItem>
+              <MacroRef MenuMacroID="ID_MnRotCo" />
+            </MenuItem>
+          </ToolbarButton>
+        </Toolbar>
+      </ToolbarRoot>
+      <ScreenMenuRoot />
+      <ImageMenuRoot />
+      <TabletMenuRoot />
+      <DoubleClickRoot />
+      <ToolPanelRoot />
+      <PanelSetRoot>
+        <PanelSet UID="PSTU_0001" />
+      </PanelSetRoot>
+    </MenuRoot>
+  </MenuGroup>
+</CustSection>

@@ -1,0 +1,1159 @@
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+E:\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+D:\2013\Projects\CTBIM\Sample\UIShell.iOpenWorks.WPF\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+D:\2013\Projects\CTBIM\Development\Version 1.0_17082013\CTBIM_CAD_UI_V1.0\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\ctbimlogo.png
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+D:\CFAeX\Project\WPF\Sample\Version 1.0_17082013\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+D:\CFAeX\Project\WPF\Project\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+C:\Users\suresh\Desktop\CFAeX_Uploader_UI_V1.2\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+E:\Modern UI Sample\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+C:\Users\suresh\Desktop\CFAEX\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+E:\Inventor\Tick Cad\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+E:\Inventor\New Model App\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+E:\Inventor\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+C:\Users\suresh\Desktop\ModernUI Samples\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+E:\Inventor\Review Final 19-03-2014\Tab Type\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+C:\Users\rajendra\Desktop\TickCad\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+C:\Users\rajendra\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+C:\Users\suresh\Desktop\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+C:\Users\rajendra\Desktop\Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+C:\Users\suresh\Desktop\From Suresh\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+E:\TickCAD\28-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+E:\TickCAD\29-04-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+E:\TickCAD\30-04-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+E:\TickCAD\2-05-2014-Latest\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+E:\TickCAD\13-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+E:\TickCAD\14-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+E:\TickCAD\15-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+E:\TickCAD\16-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+E:\TickCAD\17-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+E:\TickCAD\19-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Resources\KKMLogo.png
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.dll
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\UIShell.WpfShellPlugin.pdb
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.dll
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\Microsoft.Windows.Shell.dll
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.pdb
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\bin\FirstFloor.ModernUI.xml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.csprojResolveAssemblyReference.cache
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.add.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.adobe.bridge.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.collapsed.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.corner.up.right.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.down.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.arrow.expand.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.box.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.off.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.flash.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.camera.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.club.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.diamond.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.heart.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.cards.spade.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\appbar.check.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.HelloKitty.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Love.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Assets\ModernUI.Snowflakes.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.baml
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Content\SettingsAppearance.g.cs
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\MainWindow.g.cs
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\ContentPlaceHolder.g.cs
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Introduction.g.cs
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\Pages\Settings.g.cs
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin_MarkupCompile.cache
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.g.resources
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.dll
+C:\Users\rajendra\Desktop\20-05-2014\TickCad License\UIShell.iOpenWorks.WPF\bin\Plugins\UIShell.WpfShellPlugin\obj\Debug\UIShell.WpfShellPlugin.pdb

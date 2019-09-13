@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" Name="WPF Plugins Management And Center" SymbolicName="UIShell.WpfAppCenterPlugin" Version="1.0.0.2" InitializedState="Active">
+  <Activator Type="UIShell.WpfAppCenterPlugin.BundleActivator" Policy="Immediate" />
+  <Runtime>
+    <Assembly Path="bin\UIShell.WpfAppCenterPlugin.dll" Share="false" />
+    <Assembly Path="bin\Microsoft.Windows.Shell.dll" Share="false" />
+    <Assembly Path="bin\FirstFloor.ModernUI.dll" Share="false" />
+    <Dependency BundleSymbolicName="UIShell.BundleManagementService" Resolution="Mandatory" />
+  </Runtime>
+  <Extension Point="PageFlowService.PageNode">
+    <PageNode Name="AppCenterPage" Priority="50" Value="UIShell.WpfAppCenterPlugin.AppCenterWindow" />
+  </Extension>
+  <Extension Point="UIShell.WpfShellPlugin.LinkGroups">
+    <LinkGroup DisplayName="Plugin Management" DefaultContentSource="UIShell.WpfAppCenterPlugin.BundleManagementUserControl" GroupName="Settings" IsTitleLink="True">
+      <Link DisplayName="Plugin Management" Source="UIShell.WpfAppCenterPlugin.BundleManagementUserControl" />
+      <Link DisplayName="Plugin Center" Source="UIShell.WpfAppCenterPlugin.AppCenterUserControl" />
+    </LinkGroup>
+  </Extension>
+  <Extension Point="UIShell.BundleManagementOptions">
+    <BundleManagementOption AllowToStarted="true" AllowToStopped="false" AllowToUninstalled="false" />
+  </Extension>
+</Bundle>

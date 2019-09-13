@@ -1,0 +1,440 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{6898AD4B-9E68-4DA8-B2C4-F77EB41AB043}</ProjectGuid>
+    <RootNamespace>KwikScaf2007</RootNamespace>
+    <ProjectName>KwikScaf2013</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <UseOfAtl>false</UseOfAtl>
+    <CharacterSet>Unicode</CharacterSet>
+    <CLRSupport>false</CLRSupport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <UseOfAtl>false</UseOfAtl>
+    <CharacterSet>Unicode</CharacterSet>
+    <CLRSupport>false</CLRSupport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <UseOfAtl>false</UseOfAtl>
+    <CharacterSet>Unicode</CharacterSet>
+    <CLRSupport>false</CLRSupport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <UseOfAtl>false</UseOfAtl>
+    <CharacterSet>Unicode</CharacterSet>
+    <CLRSupport>false</CLRSupport>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.40219.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(SolutionDir)$(Platform)\$(Configuration)\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(SolutionDir)$(Platform)\$(Configuration)\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Platform)\$(Configuration)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Platform)\$(Configuration)\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</GenerateManifest>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</GenerateManifest>
+    <EmbedManifest Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</EmbedManifest>
+    <EmbedManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</EmbedManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(SolutionDir)$(Platform)\$(Configuration)\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(SolutionDir)$(Platform)\$(Configuration)\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Platform)\$(Configuration)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</LinkIncremental>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</LinkIncremental>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.arx</TargetExt>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.arx</TargetExt>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.arx</TargetExt>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>C:\ObjectARX 2014\inc;C:\ObjectARX 2014\lib;C:\ObjectARX 2014\inc-x64;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalUsingDirectories>C:\Program Files\Autodesk\AutoCAD 2014;%(AdditionalUsingDirectories)</AdditionalUsingDirectories>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;KWIKSCAF2007_MODULE;_AFXEXT;_ACRXAPP;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <StringPooling>false</StringPooling>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <BufferSecurityCheck>true</BufferSecurityCheck>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <ForceConformanceInForLoopScope>true</ForceConformanceInForLoopScope>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level1</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0409</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Link>
+      <AdditionalDependencies>SentinelKeys.lib;acdb19.lib;acge19.lib;accore.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)KwikScaf2007.arx</OutputFile>
+      <AdditionalLibraryDirectories>C:\ObjectARX 2014\lib-x64;C:\ObjectARX 2014\inc;D:\2013\Projects\Kwikscaf\KwikScaf2007-19-07-2013\KwikScaf2007;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <LinkDLL>true</LinkDLL>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)KwikScaf2007.pdb</ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+      <ImportLibrary>$(OutDir)KwikScaf2007.lib</ImportLibrary>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>C:\ObjectARX 2013\inc;C:\ObjectARX 2013\lib;C:\ObjectARX 2013\inc-x64;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalUsingDirectories>C:\Program Files\Autodesk\AutoCAD 2014;%(AdditionalUsingDirectories)</AdditionalUsingDirectories>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;KWIKSCAF2007_MODULE;_AFXEXT;_ACRXAPP;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <StringPooling>false</StringPooling>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <BufferSecurityCheck>true</BufferSecurityCheck>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <ForceConformanceInForLoopScope>true</ForceConformanceInForLoopScope>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level1</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0409</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Link>
+      <AdditionalDependencies>SentinelKeys.lib;acdb19.lib;acge19.lib;accore.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)KwikScaf2013.arx</OutputFile>
+      <AdditionalLibraryDirectories>C:\ObjectARX 2013\lib-x64;C:\ObjectARX 2013\inc;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <LinkDLL>true</LinkDLL>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)KwikScaf2013.pdb</ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+      <ImportLibrary>$(OutDir)KwikScaf2013.lib</ImportLibrary>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <Optimization>MaxSpeed</Optimization>
+      <AdditionalUsingDirectories>C:\Program Files\Autodesk\AutoCAD 2014;%(AdditionalUsingDirectories)</AdditionalUsingDirectories>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;KWIKSCAF2007_MODULE;_AFXEXT;_ACRXAPP;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <StringPooling>true</StringPooling>
+      <MinimalRebuild>false</MinimalRebuild>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <BufferSecurityCheck>true</BufferSecurityCheck>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <ForceConformanceInForLoopScope>true</ForceConformanceInForLoopScope>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level1</WarningLevel>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <AdditionalIncludeDirectories>C:\ObjectARX 2013\inc;C:\ObjectARX 2013\lib;C:\ObjectARX 2013\inc-win32;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0409</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Link>
+      <AdditionalDependencies>SentinelKeys.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)KwikScaf2013.arx</OutputFile>
+      <LinkDLL>true</LinkDLL>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <ProgramDatabaseFile>
+      </ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+      <ImportLibrary>$(OutDir)KwikScaf2013.lib</ImportLibrary>
+      <TargetMachine>MachineX86</TargetMachine>
+      <AdditionalLibraryDirectories>C:\ObjectARX 2013\lib-win32;C:\ObjectARX 2013\inc;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <Optimization>MaxSpeed</Optimization>
+      <AdditionalUsingDirectories>C:\Program Files\Autodesk\AutoCAD 2014;%(AdditionalUsingDirectories)</AdditionalUsingDirectories>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;KWIKSCAF2007_MODULE;_AFXEXT;_ACRXAPP;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <StringPooling>true</StringPooling>
+      <MinimalRebuild>false</MinimalRebuild>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <BufferSecurityCheck>true</BufferSecurityCheck>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <ForceConformanceInForLoopScope>true</ForceConformanceInForLoopScope>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level1</WarningLevel>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <AdditionalIncludeDirectories>C:\ObjectARX 2013\inc;C:\ObjectARX 2013\lib;C:\ObjectARX 2013\inc-x64;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0409</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Link>
+      <AdditionalDependencies>SentinelKeys.lib;acdb19.lib;acge19.lib;accore.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)KwikScaf2013.arx</OutputFile>
+      <LinkDLL>true</LinkDLL>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <ProgramDatabaseFile>
+      </ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+      <ImportLibrary>$(OutDir)KwikScaf2013.lib</ImportLibrary>
+      <AdditionalLibraryDirectories>C:\ObjectARX 2013\lib-x64;C:\ObjectARX 2013\inc;D:\2013\Projects\Kwikscaf\KwikScaf2013-06-12-2013\KwikScaf\x64\Release;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <TargetMachine>MachineX64</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="acrxEntryPoint.cpp" />
+    <ClCompile Include="AssignStageDialog.cpp" />
+    <ClCompile Include="AutobuildDialog.cpp" />
+    <ClCompile Include="AutobuildPropertiesToolbar.cpp" />
+    <ClCompile Include="AutobuildPropertiesWnd.cpp" />
+    <ClCompile Include="AutobuildToolbar.cpp" />
+    <ClCompile Include="AutoBuildTools.cpp" />
+    <ClCompile Include="Bay.cpp" />
+    <ClCompile Include="BayDetailsDialog.cpp" />
+    <ClCompile Include="BayPropertiesToolbar.cpp" />
+    <ClCompile Include="BayPropToolbarWnd.cpp" />
+    <ClCompile Include="BayStageLevel.cpp" />
+    <ClCompile Include="BOMExtra.cpp" />
+    <ClCompile Include="BOMSelectionDialog.cpp" />
+    <ClCompile Include="BOMSummaryDialog.cpp" />
+    <ClCompile Include="ChangeRLDlg.cpp" />
+    <ClCompile Include="Component.cpp" />
+    <ClCompile Include="ComponentDetails.cpp" />
+    <ClCompile Include="ComponentEditor.cpp" />
+    <ClCompile Include="componentList.cpp" />
+    <ClCompile Include="ComponentPartNumberSelectorDlg.cpp" />
+    <ClCompile Include="controller.cpp" />
+    <ClCompile Include="CoolButton.cpp" />
+    <ClCompile Include="DocData.cpp" />
+    <ClCompile Include="doubleArray.cpp" />
+    <ClCompile Include="EditStandardsDlg.cpp" />
+    <ClCompile Include="Entity.cpp" />
+    <ClCompile Include="EntityDebugger.cpp" />
+    <ClCompile Include="EntityReactor.cpp" />
+    <ClCompile Include="FontCombo.cpp" />
+    <ClCompile Include="FreeTieTube.cpp" />
+    <ClCompile Include="GraphicTypes.cpp" />
+    <ClCompile Include="HelpAboutDlg.cpp" />
+    <ClCompile Include="JobDescriptionInfo.cpp" />
+    <ClCompile Include="JobDetailsDialog.cpp" />
+    <ClCompile Include="Kwik3DPolygonMesh.cpp" />
+    <ClCompile Include="KwikScaf2007.cpp" />
+    <ClCompile Include="KwikScafButton.cpp" />
+    <ClCompile Include="KwikScafColours.cpp" />
+    <ClCompile Include="KwikScafComponentEditor.cpp" />
+    <ClCompile Include="KwikscafDialog.cpp" />
+    <ClCompile Include="KwikscafProgressDlg.cpp" />
+    <ClCompile Include="LapboardBay.cpp" />
+    <ClCompile Include="LevelList.cpp" />
+    <ClCompile Include="Lift.cpp" />
+    <ClCompile Include="LiftDetailsDialog.cpp" />
+    <ClCompile Include="LiftList.cpp" />
+    <ClCompile Include="Line.cpp" />
+    <ClCompile Include="ListCtrlPrint.cpp" />
+    <ClCompile Include="ListPrintPage1.cpp" />
+    <ClCompile Include="ListPrintPage2.cpp" />
+    <ClCompile Include="ListPrintSetup.cpp" />
+    <ClCompile Include="Matrix.cpp" />
+    <ClCompile Include="MatrixElement.cpp" />
+    <ClCompile Include="MdiAware.cpp" />
+    <ClCompile Include="MillsSystemBayEditor.cpp" />
+    <ClCompile Include="ObjectPosition.cpp" />
+    <ClCompile Include="PerRollDialog.cpp" />
+    <ClCompile Include="PreviewTemplate.cpp" />
+    <ClCompile Include="PrinterJob.cpp" />
+    <ClCompile Include="PrintStatus.cpp" />
+    <ClCompile Include="Run.cpp" />
+    <ClCompile Include="RunPropDialog.cpp" />
+    <ClCompile Include="ScaffoldArchive.cpp" />
+    <ClCompile Include="SetStagesDlg.cpp" />
+    <ClCompile Include="SHKInterface.cpp" />
+    <ClCompile Include="ShowComponentTypeDialog.cpp" />
+    <ClCompile Include="StageLevelShowHideDlg.cpp" />
+    <ClCompile Include="StageLevelVisible.cpp" />
+    <ClCompile Include="StandardHeightPickerDialog.cpp" />
+    <ClCompile Include="StdAfx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="StockListElement.cpp" />
+    <ClCompile Include="SummaryElement.cpp" />
+    <ClCompile Include="SummaryInfo.cpp" />
+    <ClCompile Include="VisualComponents.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AssignStageDialog.h" />
+    <ClInclude Include="AutobuildDialog.h" />
+    <ClInclude Include="AutobuildPropertiesToolbar.h" />
+    <ClInclude Include="AutobuildPropertiesWnd.h" />
+    <ClInclude Include="AutobuildToolbar.h" />
+    <ClInclude Include="AutoBuildTools.h" />
+    <ClInclude Include="Bay.h" />
+    <ClInclude Include="BayDefinitions.h" />
+    <ClInclude Include="BayDetailsDialog.h" />
+    <ClInclude Include="BayPropertiesToolbar.h" />
+    <ClInclude Include="BayPropToolbarWnd.h" />
+    <ClInclude Include="BayStageLevel.h" />
+    <ClInclude Include="BOMExtra.h" />
+    <ClInclude Include="BOMSelectionDialog.h" />
+    <ClInclude Include="BOMSummaryDialog.h" />
+    <ClInclude Include="ChangeRLDlg.h" />
+    <ClInclude Include="ColourCode.h" />
+    <ClInclude Include="Component.h" />
+    <ClInclude Include="ComponentDefinitions.h" />
+    <ClInclude Include="ComponentDetails.h" />
+    <ClInclude Include="ComponentEditor.h" />
+    <ClInclude Include="componentList.h" />
+    <ClInclude Include="ComponentPartNumberSelectorDlg.h" />
+    <ClInclude Include="controller.h" />
+    <ClInclude Include="CoolButton.h" />
+    <ClInclude Include="DocData.h" />
+    <ClInclude Include="doubleArray.h" />
+    <ClInclude Include="EditStandardsDlg.h" />
+    <ClInclude Include="Entity.h" />
+    <ClInclude Include="EntityDebugger.h" />
+    <ClInclude Include="EntityDefinitions.h" />
+    <ClInclude Include="EntityReactor.h" />
+    <ClInclude Include="FontCombo.h" />
+    <ClInclude Include="FreeTieTube.h" />
+    <ClInclude Include="GraphicTypes.h" />
+    <ClInclude Include="HelpAboutDlg.h" />
+    <ClInclude Include="JobDescriptionInfo.h" />
+    <ClInclude Include="JobDetailsDialog.h" />
+    <ClInclude Include="Kwik3DPolygonMesh.h" />
+    <ClInclude Include="KwikScafButton.h" />
+    <ClInclude Include="KwikScafColours.h" />
+    <ClInclude Include="KwikScafComponentEditor.h" />
+    <ClInclude Include="KwikscafDialog.h" />
+    <ClInclude Include="KwikscafProgressDlg.h" />
+    <ClInclude Include="LapboardBay.h" />
+    <ClInclude Include="LevelList.h" />
+    <ClInclude Include="Lift.h" />
+    <ClInclude Include="LiftDetailsDialog.h" />
+    <ClInclude Include="LiftList.h" />
+    <ClInclude Include="Line.h" />
+    <ClInclude Include="ListCtrlPrint.h" />
+    <ClInclude Include="ListPrintPage1.h" />
+    <ClInclude Include="ListPrintPage2.h" />
+    <ClInclude Include="ListPrintSetup.h" />
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="MaterialTypeDefinitions.h" />
+    <ClInclude Include="Matrix.h" />
+    <ClInclude Include="MatrixElement.h" />
+    <ClInclude Include="MdiAware.h" />
+    <ClInclude Include="meccano.h" />
+    <ClInclude Include="MeccanoDefinitions.h" />
+    <ClInclude Include="MillsSystemBayEditor.h" />
+    <ClInclude Include="ObjectPosition.h" />
+    <ClInclude Include="PerRollDialog.h" />
+    <ClInclude Include="PreviewTemplate.h" />
+    <ClInclude Include="PrinterJob.h" />
+    <ClInclude Include="PrintManager.h" />
+    <ClInclude Include="PrintStatus.h" />
+    <ClInclude Include="Rbcommon.h" />
+    <ClInclude Include="Rbioeng.h" />
+    <ClInclude Include="Rbstatus.h" />
+    <ClInclude Include="Rbtypes.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="Run.h" />
+    <ClInclude Include="RunPropDialog.h" />
+    <ClInclude Include="ScaffoldArchive.h" />
+    <ClInclude Include="SentinelKeys.h" />
+    <ClInclude Include="SentinelKeysLicense.h" />
+    <ClInclude Include="SentinelKeystypes.h" />
+    <ClInclude Include="Serialization.h" />
+    <ClInclude Include="SetStagesDlg.h" />
+    <ClInclude Include="ShowComponentTypeDialog.h" />
+    <ClInclude Include="StageLevelShowHideDlg.h" />
+    <ClInclude Include="StageLevelVisible.h" />
+    <ClInclude Include="StagesPlanksEtcDefinitions.h" />
+    <ClInclude Include="StandardHeightPickerDialog.h" />
+    <ClInclude Include="StdAfx.h" />
+    <ClInclude Include="StockListElement.h" />
+    <ClInclude Include="SummaryElement.h" />
+    <ClInclude Include="SummaryInfo.h" />
+    <ClInclude Include="VersionDefinitions.h" />
+    <ClInclude Include="VisualComponents.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bayprop.bmp" />
+    <None Include="ChangeRL02.bmp" />
+    <None Include="cursor1.cur" />
+    <None Include="Res\cursor1.cur" />
+    <None Include="Hopup0Horizontal.bmp" />
+    <None Include="Hopup0Vertical.bmp" />
+    <None Include="Hopup1Horizontal.bmp" />
+    <None Include="Hopup1Vertical.bmp" />
+    <None Include="Hopup2Horizontal.bmp" />
+    <None Include="Hopup2Vertical.bmp" />
+    <None Include="Hopup3Horizontal.bmp" />
+    <None Include="Hopup3Vertical.bmp" />
+    <None Include="Res\KwikScaf About Box - HiRes.bmp" />
+    <None Include="pagelayout.bmp" />
+    <None Include="Res\VC Editor Logo.bmp" />
+    <None Include="Res\VC Insert Logo.bmp" />
+    <None Include="avi1.bin" />
+    <None Include="..\KwikScaf.cui" />
+    <None Include="..\KwikScaf.dll" />
+    <None Include="..\KwikScaf.lin" />
+    <None Include="..\KwikScaf.mnu" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="KwikScaf2007.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
